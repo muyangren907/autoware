@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target garmin_gps_18x_lvc[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/garmin_gps_18x_lvc.dir/src/garmin_gps_18x_lvc.cc.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/garmin/lib/garmin/garmin_gps_18x_lvc[0m
+[100%] Built target garmin_gps_18x_lvc

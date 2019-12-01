@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_naive_l_shape_detect/lidar_naive_l_shape_detect
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_naive_l_shape_detect.pc

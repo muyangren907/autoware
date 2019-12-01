@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig-version.cmake

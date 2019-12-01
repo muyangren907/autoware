@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgsConfig-version.cmake

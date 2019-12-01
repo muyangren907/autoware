@@ -1,0 +1,5 @@
+drivers/awf_drivers/nmea_navsat
+/home/myr907/autoware.ai/devel/.private/nmea_navsat/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake /home/myr907/autoware.ai/devel/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+/home/myr907/autoware.ai/devel/.private/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake /home/myr907/autoware.ai/devel/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/nmea_navsat/lib/pkgconfig/nmea_navsat.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/nmea_navsat.pc

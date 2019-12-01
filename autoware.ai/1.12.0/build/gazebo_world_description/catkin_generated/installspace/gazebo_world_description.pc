@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: gazebo_world_description
+Description: Description of gazebo_world_description
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: 

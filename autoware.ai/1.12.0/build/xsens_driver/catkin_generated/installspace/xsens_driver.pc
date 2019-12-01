@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: xsens_driver
+Description: Description of xsens_driver
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: rospy std_msgs tf sensor_msgs geometry_msgs gps_common diagnostic_msgs custom_msgs

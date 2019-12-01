@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/dp_planner/cmake/dp_plannerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/dp_planner/cmake/dp_plannerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/dp_planner/dp_planner
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/dp_planner.pc

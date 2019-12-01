@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/javad_navsat_driver/lib/pkgconfig/javad_navsat_driver.pc

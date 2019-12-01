@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/ndt_tku/cmake/ndt_tkuConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/ndt_tku/cmake/ndt_tkuConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libndt_tku.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/ndt_tku.pc

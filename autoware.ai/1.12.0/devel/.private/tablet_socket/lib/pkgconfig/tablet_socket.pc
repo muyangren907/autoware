@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/tablet_socket
+
+Name: tablet_socket
+Description: Description of tablet_socket
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/tablet_socket/lib 
+Requires: tf tablet_socket_msgs autoware_can_msgs autoware_msgs gnss

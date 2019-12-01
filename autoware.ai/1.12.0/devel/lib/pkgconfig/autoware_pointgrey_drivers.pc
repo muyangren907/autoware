@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_pointgrey_drivers/lib/pkgconfig/autoware_pointgrey_drivers.pc

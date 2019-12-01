@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/sick_ldmrs_msgs/share/gennodejs/ros/sick_ldmrs_msgs/msg/Object.js

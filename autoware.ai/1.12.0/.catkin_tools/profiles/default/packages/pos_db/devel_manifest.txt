@@ -1,0 +1,8 @@
+autoware/core_perception/pos_db
+/home/myr907/autoware.ai/devel/.private/pos_db/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/pos_db/share/pos_db/cmake/pos_dbConfig.cmake /home/myr907/autoware.ai/devel/share/pos_db/cmake/pos_dbConfig.cmake
+/home/myr907/autoware.ai/devel/.private/pos_db/share/pos_db/cmake/pos_dbConfig-version.cmake /home/myr907/autoware.ai/devel/share/pos_db/cmake/pos_dbConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/pos_db/lib/libpos_db.so /home/myr907/autoware.ai/devel/lib/libpos_db.so
+/home/myr907/autoware.ai/devel/.private/pos_db/lib/pos_db/pos_downloader /home/myr907/autoware.ai/devel/lib/pos_db/pos_downloader
+/home/myr907/autoware.ai/devel/.private/pos_db/lib/pos_db/pos_uploader /home/myr907/autoware.ai/devel/lib/pos_db/pos_uploader
+/home/myr907/autoware.ai/devel/.private/pos_db/lib/pkgconfig/pos_db.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/pos_db.pc

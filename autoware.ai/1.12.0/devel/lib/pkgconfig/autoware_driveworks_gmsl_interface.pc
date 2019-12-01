@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_driveworks_gmsl_interface/lib/pkgconfig/autoware_driveworks_gmsl_interface.pc

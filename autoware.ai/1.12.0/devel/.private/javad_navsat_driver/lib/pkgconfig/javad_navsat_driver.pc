@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/javad_navsat_driver
+
+Name: javad_navsat_driver
+Description: Description of javad_navsat_driver
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/javad_navsat_driver/lib 
+Requires: 

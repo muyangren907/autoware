@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/xsens_driver/lib/pkgconfig/xsens_driver.pc

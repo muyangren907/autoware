@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/myr907/autoware.ai/devel/.private/vision_beyond_track/lib/libbeyond_track_lib.a  CMakeFiles/beyond_track_lib.dir/lib/hungarian.cpp.o CMakeFiles/beyond_track_lib.dir/lib/clipper.cpp.o
+/usr/bin/ranlib /home/myr907/autoware.ai/devel/.private/vision_beyond_track/lib/libbeyond_track_lib.a

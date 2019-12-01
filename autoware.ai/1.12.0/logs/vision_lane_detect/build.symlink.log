@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/vision_lane_detect/cmake/vision_lane_detectConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/vision_lane_detect/cmake/vision_lane_detectConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/vision_lane_detect/vision_lane_detect
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/vision_lane_detect.pc

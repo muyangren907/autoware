@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/ds4_msgs/share/gennodejs/ros/ds4_msgs/_index.js

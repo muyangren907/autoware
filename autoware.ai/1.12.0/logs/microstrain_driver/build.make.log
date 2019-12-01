@@ -1,0 +1,38 @@
+[35m[1mScanning dependencies of target microstrain_driver[0m
+[  5%] [32mBuilding CXX object CMakeFiles/microstrain_driver.dir/src/microstrain.cpp.o[0m
+[ 11%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/src/mip_sdk_user_functions.c.o[0m
+[ 17%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip.c.o[0m
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:[m[K In function ‘[01m[Kmip_add_field[m[K’:
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:189:3:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kmemcpy[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+   [01;35m[Kmemcpy[m[K(field_data_ptr, field_data, data_size);
+   [01;35m[K^~~~~~[m[K
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:189:3:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kmemcpy[m[K’
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:189:3:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<string.h>[m[K’ or provide a declaration of ‘[01m[Kmemcpy[m[K’
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:[m[K In function ‘[01m[Kmip_add_formatted_field[m[K’:
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:250:2:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kmemcpy[m[K’
+  [01;35m[Kmemcpy[m[K(field_location, field, field_header_ptr->size);
+  [01;35m[K^~~~~~[m[K
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip.c:250:2:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<string.h>[m[K’ or provide a declaration of ‘[01m[Kmemcpy[m[K’
+[ 23%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_base.c.o[0m
+[ 29%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_inteface.c.o[0m
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip_sdk_inteface.c:[m[K In function ‘[01m[K__mip_interface_command_response_handler[m[K’:
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/MIPSDK/C/Library/Source/mip_sdk_inteface.c:755:49:[m[K [01;35m[Kwarning: [m[Kassignment from incompatible pointer type [[01;35m[K-Wincompatible-pointer-types[m[K]
+    device_interface->command_response_data      [01;35m[K=[m[K field_header_ptr;
+                                                 [01;35m[K^[m[K
+[ 35%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_3dm.c.o[0m
+[ 41%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_filter.c.o[0m
+[ 47%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_system.c.o[0m
+[ 52%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_ahrs.c.o[0m
+[ 58%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_gps.c.o[0m
+[ 64%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/ring_buffer.c.o[0m
+[ 70%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Utilities/Source/byteswap_utilities.c.o[0m
+[ 76%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/microstrain_driver/lib/libmicrostrain_driver.so[0m
+[ 76%] Built target microstrain_driver
+[35m[1mScanning dependencies of target 3dm_gx5_45_node[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/3dm_gx5_45_node.dir/src/3dm_gx5_45_node.cpp.o[0m
+[ 88%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node[0m
+[ 88%] Built target 3dm_gx5_45_node
+[35m[1mScanning dependencies of target 3dm_gx5_15_node[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/3dm_gx5_15_node.dir/src/3dm_gx5_15_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node[0m
+[100%] Built target 3dm_gx5_15_node

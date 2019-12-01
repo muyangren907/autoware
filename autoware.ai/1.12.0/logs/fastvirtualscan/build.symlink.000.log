@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/fastvirtualscan/cmake/fastvirtualscanConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/fastvirtualscan/cmake/fastvirtualscanConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libfastvirtualscan.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/fastvirtualscan.pc

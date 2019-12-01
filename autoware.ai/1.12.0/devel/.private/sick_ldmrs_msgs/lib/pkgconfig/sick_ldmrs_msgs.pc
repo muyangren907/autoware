@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/sick_ldmrs_msgs
+
+Name: sick_ldmrs_msgs
+Description: Description of sick_ldmrs_msgs
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/devel/.private/sick_ldmrs_msgs/include -I/home/myr907/autoware.ai/src/drivers/awf_drivers/sick_ldmrs_msgs/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/sick_ldmrs_msgs/lib 
+Requires: message_runtime std_msgs geometry_msgs

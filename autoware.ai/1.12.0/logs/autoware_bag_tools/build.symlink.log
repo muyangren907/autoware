@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_bag_tools.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_bag_tools/nmea2kml

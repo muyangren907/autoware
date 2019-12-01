@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/freespace_planner/lib/pkgconfig/freespace_planner.pc

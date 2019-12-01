@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg/DS4.lisp

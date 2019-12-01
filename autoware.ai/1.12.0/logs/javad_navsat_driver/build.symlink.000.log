@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/javad_navsat_driver/cmake/javad_navsat_driverConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/javad_navsat_driver/cmake/javad_navsat_driverConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/javad_navsat_driver.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/libjavad_navsat_driver/__init__.py

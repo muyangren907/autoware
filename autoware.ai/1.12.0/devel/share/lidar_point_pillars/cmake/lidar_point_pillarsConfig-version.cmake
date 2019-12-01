@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig.cmake

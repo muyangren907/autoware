@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/points_downsampler/share/points_downsampler/cmake/points_downsamplerConfig-version.cmake

@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fbec0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fbec0.dir/build.make CMakeFiles/cmTC_fbec0.dir/build
+make[1]: Entering directory '/home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fbec0.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_fbec0.dir/CheckSymbolExists.c.o   -c /home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_fbec0
+/usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fbec0.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_fbec0.dir/CheckSymbolExists.c.o  -o cmTC_fbec0 
+CMakeFiles/cmTC_fbec0.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_fbec0.dir/build.make:86: recipe for target 'cmTC_fbec0' failed
+make[1]: *** [cmTC_fbec0] Error 1
+make[1]: Leaving directory '/home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_fbec0/fast' failed
+make: *** [cmTC_fbec0/fast] Error 2
+
+File /home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_30d66/fast"
+/usr/bin/make -f CMakeFiles/cmTC_30d66.dir/build.make CMakeFiles/cmTC_30d66.dir/build
+make[1]: Entering directory '/home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30d66.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_30d66.dir/CheckFunctionExists.c.o   -c /usr/local/lib/python2.7/dist-packages/cmake/data/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_30d66
+/usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30d66.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_30d66.dir/CheckFunctionExists.c.o  -o cmTC_30d66 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_30d66.dir/build.make:86: recipe for target 'cmTC_30d66' failed
+make[1]: *** [cmTC_30d66] Error 1
+make[1]: Leaving directory '/home/myr907/autoware.ai/build/oculus_socket/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_30d66/fast' failed
+make: *** [cmTC_30d66/fast] Error 2
+
+

@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/op_simu/cmake/op_simuConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/op_simu/cmake/op_simuConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libop_simu.so
+Symlinking /home/myr907/autoware.ai/devel/lib/op_simu/Simu
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/op_simu.pc

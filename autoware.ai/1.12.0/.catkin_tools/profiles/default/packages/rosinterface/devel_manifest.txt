@@ -1,0 +1,6 @@
+autoware/visualization/rosinterface
+/home/myr907/autoware.ai/devel/.private/rosinterface/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/rosinterface/share/rosinterface/cmake/rosinterfaceConfig-version.cmake /home/myr907/autoware.ai/devel/share/rosinterface/cmake/rosinterfaceConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/rosinterface/share/rosinterface/cmake/rosinterfaceConfig.cmake /home/myr907/autoware.ai/devel/share/rosinterface/cmake/rosinterfaceConfig.cmake
+/home/myr907/autoware.ai/devel/.private/rosinterface/lib/librosinterface.so /home/myr907/autoware.ai/devel/lib/librosinterface.so
+/home/myr907/autoware.ai/devel/.private/rosinterface/lib/pkgconfig/rosinterface.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/rosinterface.pc

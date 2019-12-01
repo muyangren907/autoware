@@ -1,0 +1,11 @@
+[33m[1mCMake Warning[0m at /home/myr907/autoware.ai/src/autoware/common/autoware_build_flags/cmake/autoware_build_flags-extras.cmake:36 (message):
+  CUDA support is disabled.  Set the AUTOWARE_COMPILE_WITH_CUDA environment
+  variable and recompile to enable it
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:36 (AW_CHECK_CUDA)
+
+
+[33m[1mCMake Warning[0m at /home/myr907/autoware.ai/src/autoware/core_perception/vision_darknet_detect/CMakeLists.txt:173 (message):
+  Building vision_darknet_detect without CUDA
+
+

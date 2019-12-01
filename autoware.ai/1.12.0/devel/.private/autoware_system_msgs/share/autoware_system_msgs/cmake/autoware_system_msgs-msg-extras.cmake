@@ -1,0 +1,2 @@
+set(autoware_system_msgs_MESSAGE_FILES "/home/myr907/autoware.ai/src/autoware/messages/autoware_system_msgs/msg/DiagnosticStatus.msg;/home/myr907/autoware.ai/src/autoware/messages/autoware_system_msgs/msg/DiagnosticStatusArray.msg;/home/myr907/autoware.ai/src/autoware/messages/autoware_system_msgs/msg/SystemStatus.msg;/home/myr907/autoware.ai/src/autoware/messages/autoware_system_msgs/msg/NodeStatus.msg;/home/myr907/autoware.ai/src/autoware/messages/autoware_system_msgs/msg/HardwareStatus.msg")
+set(autoware_system_msgs_SERVICE_FILES "")

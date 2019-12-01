@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vision_ssd_detect/lib/pkgconfig/vision_ssd_detect.pc

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/way_planner
+
+Name: way_planner
+Description: Description of way_planner
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_planning/way_planner/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/way_planner/lib -lway_planner
+Requires: geometry_msgs vector_map_msgs roscpp rospy std_msgs waypoint_follower op_utility op_planner op_simu

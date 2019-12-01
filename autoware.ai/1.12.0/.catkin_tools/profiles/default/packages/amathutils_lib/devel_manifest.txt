@@ -1,0 +1,6 @@
+autoware/common/amathutils_lib
+/home/myr907/autoware.ai/devel/.private/amathutils_lib/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/amathutils_lib/share/amathutils_lib/cmake/amathutils_libConfig.cmake /home/myr907/autoware.ai/devel/share/amathutils_lib/cmake/amathutils_libConfig.cmake
+/home/myr907/autoware.ai/devel/.private/amathutils_lib/share/amathutils_lib/cmake/amathutils_libConfig-version.cmake /home/myr907/autoware.ai/devel/share/amathutils_lib/cmake/amathutils_libConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/amathutils_lib/lib/libamathutils_lib.so /home/myr907/autoware.ai/devel/lib/libamathutils_lib.so
+/home/myr907/autoware.ai/devel/.private/amathutils_lib/lib/pkgconfig/amathutils_lib.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/amathutils_lib.pc

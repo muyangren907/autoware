@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/mqtt_socket/lib/pkgconfig/mqtt_socket.pc

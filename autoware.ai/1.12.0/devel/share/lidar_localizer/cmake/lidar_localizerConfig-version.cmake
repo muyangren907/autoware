@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_localizer/share/lidar_localizer/cmake/lidar_localizerConfig-version.cmake

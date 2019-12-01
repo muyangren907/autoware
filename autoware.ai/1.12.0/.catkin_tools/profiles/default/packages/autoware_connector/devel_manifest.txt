@@ -1,0 +1,7 @@
+autoware/core_perception/autoware_connector
+/home/myr907/autoware.ai/devel/.private/autoware_connector/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/autoware_connector/share/autoware_connector/cmake/autoware_connectorConfig-version.cmake /home/myr907/autoware.ai/devel/share/autoware_connector/cmake/autoware_connectorConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/autoware_connector/share/autoware_connector/cmake/autoware_connectorConfig.cmake /home/myr907/autoware.ai/devel/share/autoware_connector/cmake/autoware_connectorConfig.cmake
+/home/myr907/autoware.ai/devel/.private/autoware_connector/lib/autoware_connector/can_status_translator /home/myr907/autoware.ai/devel/lib/autoware_connector/can_status_translator
+/home/myr907/autoware.ai/devel/.private/autoware_connector/lib/autoware_connector/can_odometry /home/myr907/autoware.ai/devel/lib/autoware_connector/can_odometry
+/home/myr907/autoware.ai/devel/.private/autoware_connector/lib/pkgconfig/autoware_connector.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_connector.pc

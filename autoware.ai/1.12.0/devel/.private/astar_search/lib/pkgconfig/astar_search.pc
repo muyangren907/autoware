@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/astar_search
+
+Name: astar_search
+Description: Description of astar_search
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_planning/astar_search/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/astar_search/lib -lastar_search
+Requires: roscpp tf tf_conversions pcl_ros sensor_msgs geometry_msgs autoware_msgs

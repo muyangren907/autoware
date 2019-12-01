@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: autoware_launcher
+Description: Description of autoware_launcher
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib -lautoware_launcher
+Requires: python_qt_binding

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: vision_lane_detect
+Description: Description of vision_lane_detect
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp

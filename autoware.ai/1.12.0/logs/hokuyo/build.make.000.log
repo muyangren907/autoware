@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target hokuyo_3d[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hokuyo_3d.dir/nodes/hokuyo_3d/hokuyo_3d.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/hokuyo/lib/hokuyo/hokuyo_3d[0m
+[100%] Built target hokuyo_3d

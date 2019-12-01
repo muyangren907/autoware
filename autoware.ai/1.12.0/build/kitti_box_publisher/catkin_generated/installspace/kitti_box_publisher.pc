@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: kitti_box_publisher
+Description: Description of kitti_box_publisher
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: geometry_msgs jsk_recognition_msgs rospy sensor_msgs std_msgs autoware_msgs

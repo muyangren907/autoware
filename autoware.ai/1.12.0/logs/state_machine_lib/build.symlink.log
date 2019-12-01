@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/state_machine_lib/cmake/state_machine_libConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/state_machine_lib/cmake/state_machine_libConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libstate_machine_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/state_machine_lib.pc

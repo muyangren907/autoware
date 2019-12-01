@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libpcl_omp_registration.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/pcl_omp_registration.pc

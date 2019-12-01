@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: lidar_naive_l_shape_detect
+Description: Description of lidar_naive_l_shape_detect
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp pcl_ros autoware_msgs tf

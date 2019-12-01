@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/ds4_msgs
+
+Name: ds4_msgs
+Description: Description of ds4_msgs
+Version: 0.1.0
+Cflags: -I/home/myr907/autoware.ai/devel/.private/ds4_msgs/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/ds4_msgs/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vlg22c_cam/lib/pkgconfig/vlg22c_cam.pc

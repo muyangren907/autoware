@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/sick_lms5xx
+
+Name: sick_lms5xx
+Description: Description of sick_lms5xx
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/sick_lms5xx/lib 
+Requires: roscpp tf

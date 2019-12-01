@@ -1,0 +1,8 @@
+Symlinking /home/myr907/autoware.ai/devel/share/points2image/cmake/points2imageConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/points2image/cmake/points2imageConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libpoints_image.so
+Symlinking /home/myr907/autoware.ai/devel/lib/points2image/vscan2image
+Symlinking /home/myr907/autoware.ai/devel/lib/points2image/vscan2linelist
+Symlinking /home/myr907/autoware.ai/devel/lib/points2image/points2vscan
+Symlinking /home/myr907/autoware.ai/devel/lib/points2image/points2image
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/points2image.pc

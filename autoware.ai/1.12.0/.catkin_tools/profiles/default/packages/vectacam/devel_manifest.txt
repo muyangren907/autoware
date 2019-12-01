@@ -1,0 +1,6 @@
+drivers/awf_drivers/vectacam
+/home/myr907/autoware.ai/devel/.private/vectacam/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/vectacam/share/vectacam/cmake/vectacamConfig.cmake /home/myr907/autoware.ai/devel/share/vectacam/cmake/vectacamConfig.cmake
+/home/myr907/autoware.ai/devel/.private/vectacam/share/vectacam/cmake/vectacamConfig-version.cmake /home/myr907/autoware.ai/devel/share/vectacam/cmake/vectacamConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/vectacam/lib/vectacam/vectacam_node /home/myr907/autoware.ai/devel/lib/vectacam/vectacam_node
+/home/myr907/autoware.ai/devel/.private/vectacam/lib/pkgconfig/vectacam.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/vectacam.pc

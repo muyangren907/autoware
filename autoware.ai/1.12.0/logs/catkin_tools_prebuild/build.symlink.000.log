@@ -1,0 +1,12 @@
+Symlinking /home/myr907/autoware.ai/devel/./local_setup.bash
+Symlinking /home/myr907/autoware.ai/devel/./setup.sh
+Symlinking /home/myr907/autoware.ai/devel/./env.sh
+Symlinking /home/myr907/autoware.ai/devel/./setup.bash
+Symlinking /home/myr907/autoware.ai/devel/./local_setup.zsh
+Symlinking /home/myr907/autoware.ai/devel/./local_setup.sh
+Symlinking /home/myr907/autoware.ai/devel/./_setup_util.py
+Symlinking /home/myr907/autoware.ai/devel/./cmake.lock
+Symlinking /home/myr907/autoware.ai/devel/./setup.zsh
+Symlinking /home/myr907/autoware.ai/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/catkin_tools_prebuild.pc

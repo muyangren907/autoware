@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/tablet_socket/share/tablet_socket/cmake/tablet_socketConfig-version.cmake

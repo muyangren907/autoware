@@ -1,0 +1,10 @@
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_maker/cmake/waypoint_makerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_maker/cmake/waypoint_makerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_replanner
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_marker_publisher
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_saver
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_loader
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_velocity_visualizer
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_extractor
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_maker/waypoint_clicker
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/waypoint_maker.pc

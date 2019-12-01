@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/memsic_imu/cmake/memsic_imuConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/memsic_imu/vg440_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/memsic_imu.pc

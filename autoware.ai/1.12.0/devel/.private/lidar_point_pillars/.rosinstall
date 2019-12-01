@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/myr907/autoware.ai/devel/.private/lidar_point_pillars/setup.sh

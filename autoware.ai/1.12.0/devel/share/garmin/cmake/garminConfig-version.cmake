@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/garmin/share/garmin/cmake/garminConfig-version.cmake

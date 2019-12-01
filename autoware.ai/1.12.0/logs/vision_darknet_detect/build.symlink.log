@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/vision_darknet_detect/cmake/vision_darknet_detectConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/vision_darknet_detect/cmake/vision_darknet_detectConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libvision_darknet_detect_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/vision_darknet_detect/vision_darknet_detect
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/vision_darknet_detect.pc

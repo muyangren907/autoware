@@ -1,0 +1,6 @@
+Symlinking /home/myr907/autoware.ai/devel/share/udon_socket/cmake/udon_socketConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/udon_socket/cmake/udon_socketConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libudon.so
+Symlinking /home/myr907/autoware.ai/devel/lib/udon_socket/udon_receiver
+Symlinking /home/myr907/autoware.ai/devel/lib/udon_socket/udon_sender
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/udon_socket.pc

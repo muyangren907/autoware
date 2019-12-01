@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target op_simu[0m
+[35m[1mScanning dependencies of target Simu[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/Simu.dir/src/SimulatedTrajectoryFollower.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/Simu.dir/src/SimpleTracker.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/op_simu.dir/src/SimpleTracker.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/op_simu.dir/src/SimulatedTrajectoryFollower.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/op_simu.dir/src/TrajectoryFollower.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/Simu.dir/src/TrajectoryFollower.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/Simu.dir/main.cpp.o[0m
+[ 88%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/op_simu/lib/libop_simu.so[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/op_simu/lib/op_simu/Simu[0m
+[100%] Built target op_simu
+[100%] Built target Simu

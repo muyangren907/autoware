@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: autoware_camera_lidar_calibrator
+Description: Description of autoware_camera_lidar_calibrator
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: cv_bridge image_transport roscpp sensor_msgs pcl_conversions pcl_ros autoware_msgs geometry_msgs tf

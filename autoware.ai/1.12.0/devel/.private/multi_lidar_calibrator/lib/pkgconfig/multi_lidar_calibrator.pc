@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/multi_lidar_calibrator
+
+Name: multi_lidar_calibrator
+Description: Description of multi_lidar_calibrator
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/multi_lidar_calibrator/lib 
+Requires: std_msgs sensor_msgs geometry_msgs

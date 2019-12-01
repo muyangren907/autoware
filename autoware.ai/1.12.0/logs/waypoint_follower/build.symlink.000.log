@@ -1,0 +1,10 @@
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_follower/cmake/waypoint_followerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_follower/cmake/waypoint_followerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/liblibwaypoint_follower.so
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/mpc_follower
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/twist_gate
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/wf_simulator
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/pure_pursuit
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/mpc_waypoints_converter
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_follower/twist_filter
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/waypoint_follower.pc

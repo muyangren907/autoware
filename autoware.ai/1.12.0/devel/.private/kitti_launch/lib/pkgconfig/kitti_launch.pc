@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/kitti_launch
+
+Name: kitti_launch
+Description: Description of kitti_launch
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/kitti_launch/lib 
+Requires: kitti_box_publisher

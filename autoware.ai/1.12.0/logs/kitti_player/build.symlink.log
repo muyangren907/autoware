@@ -1,0 +1,11 @@
+Symlinking /home/myr907/autoware.ai/devel/share/kitti_player/cmake/kitti_playerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/kitti_player/cmake/kitti_playerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/kitti_player/docs/kitti_playerConfig.dox
+Symlinking /home/myr907/autoware.ai/devel/share/kitti_player/docs/kitti_playerConfig.wikidoc
+Symlinking /home/myr907/autoware.ai/devel/share/kitti_player/docs/kitti_playerConfig-usage.dox
+Symlinking /home/myr907/autoware.ai/devel/include/kitti_player/kitti_playerConfig.h
+Symlinking /home/myr907/autoware.ai/devel/lib/kitti_player/kitti_player
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/kitti_player.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/kitti_player/__init__.py
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/kitti_player/cfg/__init__.py
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.py

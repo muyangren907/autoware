@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_msgs/share/roseus/ros/autoware_msgs/msg/GeometricRectangle.l

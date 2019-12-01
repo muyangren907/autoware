@@ -1,0 +1,7 @@
+Symlinking /home/myr907/autoware.ai/devel/share/obj_db/cmake/obj_dbConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/obj_db/cmake/obj_dbConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libobj_db.so
+Symlinking /home/myr907/autoware.ai/devel/lib/obj_db/obj_uploader
+Symlinking /home/myr907/autoware.ai/devel/lib/obj_db/obj_downloader
+Symlinking /home/myr907/autoware.ai/devel/lib/obj_db/can_uploader
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/obj_db.pc

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target vg440_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/vg440_node.dir/nodes/vg440/vg440_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/memsic_imu/lib/memsic_imu/vg440_node[0m
+[100%] Built target vg440_node

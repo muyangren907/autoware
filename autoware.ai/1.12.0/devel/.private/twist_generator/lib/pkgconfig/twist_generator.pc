@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/twist_generator
+
+Name: twist_generator
+Description: Description of twist_generator
+Version: 0.0.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_perception/twist_generator/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/twist_generator/lib 
+Requires: autoware_build_flags roscpp std_msgs geometry_msgs autoware_msgs

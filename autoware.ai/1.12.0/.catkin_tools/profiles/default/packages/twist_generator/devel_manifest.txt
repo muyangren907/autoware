@@ -1,0 +1,6 @@
+autoware/core_perception/twist_generator
+/home/myr907/autoware.ai/devel/.private/twist_generator/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/twist_generator/share/twist_generator/cmake/twist_generatorConfig.cmake /home/myr907/autoware.ai/devel/share/twist_generator/cmake/twist_generatorConfig.cmake
+/home/myr907/autoware.ai/devel/.private/twist_generator/share/twist_generator/cmake/twist_generatorConfig-version.cmake /home/myr907/autoware.ai/devel/share/twist_generator/cmake/twist_generatorConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/twist_generator/lib/pkgconfig/twist_generator.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/twist_generator.pc
+/home/myr907/autoware.ai/devel/.private/twist_generator/lib/twist_generator/vehicle_status_converter /home/myr907/autoware.ai/devel/lib/twist_generator/vehicle_status_converter

@@ -1,0 +1,3 @@
+Symlinking /home/myr907/autoware.ai/devel/share/xsens_driver/cmake/xsens_driverConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/xsens_driver/cmake/xsens_driverConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/xsens_driver.pc

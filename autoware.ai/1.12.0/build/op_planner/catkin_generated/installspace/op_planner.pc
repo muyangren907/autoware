@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: op_planner
+Description: Description of op_planner
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/install/include -I/usr/include
+Libs: -L/home/myr907/autoware.ai/install/lib -lop_planner /usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: op_utility

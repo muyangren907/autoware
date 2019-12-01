@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: decision_maker_panel
+Description: Description of decision_maker_panel
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: rviz

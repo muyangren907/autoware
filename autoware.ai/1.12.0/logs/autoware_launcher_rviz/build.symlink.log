@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libautoware_launcher_rviz.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_launcher_rviz.pc

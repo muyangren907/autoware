@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target gnss[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gnss.dir/src/geo_pos_conv.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/gnss/lib/libgnss.so[0m
+[100%] Built target gnss

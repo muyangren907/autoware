@@ -1,0 +1,12 @@
+autoware/core_perception/trafficlight_recognizer
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig-version.cmake /home/myr907/autoware.ai/devel/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig.cmake /home/myr907/autoware.ai/devel/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig.cmake
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/liblibcontext.so /home/myr907/autoware.ai/devel/lib/liblibcontext.so
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/label_maker /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/label_maker
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/feat_proj /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/feat_proj
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/region_tlr /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/region_tlr
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/tlr_tuner /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/tlr_tuner
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/tl_switch /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/tl_switch
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/trafficlight_recognizer/roi_extractor /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/roi_extractor
+/home/myr907/autoware.ai/devel/.private/trafficlight_recognizer/lib/pkgconfig/trafficlight_recognizer.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/trafficlight_recognizer.pc

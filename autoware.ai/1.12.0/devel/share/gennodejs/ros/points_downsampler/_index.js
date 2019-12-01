@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/points_downsampler/share/gennodejs/ros/points_downsampler/_index.js

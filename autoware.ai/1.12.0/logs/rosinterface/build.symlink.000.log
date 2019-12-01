@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/rosinterface/cmake/rosinterfaceConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/rosinterface/cmake/rosinterfaceConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/librosinterface.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/rosinterface.pc

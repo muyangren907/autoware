@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: autoware_pointgrey_drivers
+Description: Description of autoware_pointgrey_drivers
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: 

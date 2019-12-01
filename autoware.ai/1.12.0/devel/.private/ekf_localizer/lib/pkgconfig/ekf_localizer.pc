@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/ekf_localizer
+
+Name: ekf_localizer
+Description: Description of ekf_localizer
+Version: 0.0.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_perception/ekf_localizer/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/ekf_localizer/lib 
+Requires: autoware_build_flags roscpp std_msgs tf2 tf2_ros geometry_msgs autoware_msgs sensor_msgs amathutils_lib

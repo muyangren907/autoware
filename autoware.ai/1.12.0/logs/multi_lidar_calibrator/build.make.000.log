@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target multi_lidar_calibrator_lib[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/multi_lidar_calibrator_lib.dir/src/multi_lidar_calibrator.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/multi_lidar_calibrator/lib/libmulti_lidar_calibrator_lib.so[0m
+[ 50%] Built target multi_lidar_calibrator_lib
+[35m[1mScanning dependencies of target multi_lidar_calibrator[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/multi_lidar_calibrator.dir/src/multi_lidar_calibrator_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/multi_lidar_calibrator/lib/multi_lidar_calibrator/multi_lidar_calibrator[0m
+[100%] Built target multi_lidar_calibrator

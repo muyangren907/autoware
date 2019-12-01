@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/pc2_downsampler
+
+Name: pc2_downsampler
+Description: Description of pc2_downsampler
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/pc2_downsampler/lib 
+Requires: 

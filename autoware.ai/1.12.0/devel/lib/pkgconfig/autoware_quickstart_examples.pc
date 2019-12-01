@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_quickstart_examples/lib/pkgconfig/autoware_quickstart_examples.pc

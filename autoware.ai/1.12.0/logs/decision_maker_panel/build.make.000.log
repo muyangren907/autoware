@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target decision_maker_panel_autogen[0m
+[ 25%] [34m[1mAutomatic MOC for target decision_maker_panel[0m
+[ 25%] Built target decision_maker_panel_autogen
+[35m[1mScanning dependencies of target decision_maker_panel[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/decision_maker_panel.dir/src/decision_maker_panel.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/decision_maker_panel.dir/decision_maker_panel_autogen/mocs_compilation.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/decision_maker_panel/lib/libdecision_maker_panel.so[0m
+[100%] Built target decision_maker_panel

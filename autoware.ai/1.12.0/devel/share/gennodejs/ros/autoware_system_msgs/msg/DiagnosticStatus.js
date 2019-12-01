@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/DiagnosticStatus.js

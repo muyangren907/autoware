@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/adi_driver
+
+Name: adi_driver
+Description: Description of adi_driver
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/drivers/awf_drivers/analog_devices/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/adi_driver/lib 
+Requires: roscpp sensor_msgs

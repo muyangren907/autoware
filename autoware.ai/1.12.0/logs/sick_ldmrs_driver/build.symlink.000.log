@@ -1,0 +1,11 @@
+Symlinking /home/myr907/autoware.ai/devel/share/sick_ldmrs_driver/cmake/sick_ldmrs_driverConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/sick_ldmrs_driver/cmake/sick_ldmrs_driverConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/sick_ldmrs_driver/docs/SickLDMRSDriverConfig.wikidoc
+Symlinking /home/myr907/autoware.ai/devel/share/sick_ldmrs_driver/docs/SickLDMRSDriverConfig-usage.dox
+Symlinking /home/myr907/autoware.ai/devel/share/sick_ldmrs_driver/docs/SickLDMRSDriverConfig.dox
+Symlinking /home/myr907/autoware.ai/devel/include/sick_ldmrs_driver/SickLDMRSDriverConfig.h
+Symlinking /home/myr907/autoware.ai/devel/lib/sick_ldmrs_driver/sick_ldmrs_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/sick_ldmrs_driver.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/sick_ldmrs_driver/__init__.py
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/sick_ldmrs_driver/cfg/__init__.py
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/sick_ldmrs_driver/cfg/SickLDMRSDriverConfig.py

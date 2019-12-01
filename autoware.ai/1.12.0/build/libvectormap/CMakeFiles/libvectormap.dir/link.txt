@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/myr907/autoware.ai/devel/.private/libvectormap/lib/liblibvectormap.a  CMakeFiles/libvectormap.dir/src/vector_map.cpp.o
+/usr/bin/ranlib /home/myr907/autoware.ai/devel/.private/libvectormap/lib/liblibvectormap.a

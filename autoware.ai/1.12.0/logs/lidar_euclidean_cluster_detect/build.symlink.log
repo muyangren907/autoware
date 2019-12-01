@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_euclidean_cluster_detect/cmake/lidar_euclidean_cluster_detectConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_euclidean_cluster_detect/cmake/lidar_euclidean_cluster_detectConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_euclidean_cluster_detect/lidar_euclidean_cluster_detect
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_euclidean_cluster_detect.pc

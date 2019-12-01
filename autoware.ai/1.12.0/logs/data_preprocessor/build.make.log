@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target get_PCD[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/get_PCD.dir/nodes/get_PCD/get_PCD.cpp.o[0m
+[35m[1mScanning dependencies of target get_Image[0m
+[35m[1mScanning dependencies of target get_Depth[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/get_Image.dir/nodes/get_Image/get_Image.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/get_Depth.dir/nodes/get_Depth/get_Depth.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/data_preprocessor/lib/data_preprocessor/get_Image[0m
+[ 66%] Built target get_Image
+[ 83%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/data_preprocessor/lib/data_preprocessor/get_PCD[0m
+[ 83%] Built target get_PCD
+[01m[K/home/myr907/autoware.ai/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:[m[K In member function ‘[01m[Kvoid SaveDepth::create_depth()[m[K’:
+[01m[K/home/myr907/autoware.ai/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:169:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kw[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+   for (int [01;35m[Kw[m[K; w<width; w++){
+            [01;35m[K^[m[K
+[01m[K/home/myr907/autoware.ai/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:170:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kh[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+     for (int [01;35m[Kh[m[K; h<height; h++){
+              [01;35m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/data_preprocessor/lib/data_preprocessor/get_Depth[0m
+[100%] Built target get_Depth

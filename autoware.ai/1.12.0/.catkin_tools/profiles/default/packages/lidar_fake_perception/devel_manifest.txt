@@ -1,0 +1,6 @@
+autoware/core_perception/lidar_fake_perception
+/home/myr907/autoware.ai/devel/.private/lidar_fake_perception/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/lidar_fake_perception/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig.cmake /home/myr907/autoware.ai/devel/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig.cmake
+/home/myr907/autoware.ai/devel/.private/lidar_fake_perception/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig-version.cmake /home/myr907/autoware.ai/devel/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/lidar_fake_perception/lib/lidar_fake_perception/lidar_fake_perception_node /home/myr907/autoware.ai/devel/lib/lidar_fake_perception/lidar_fake_perception_node
+/home/myr907/autoware.ai/devel/.private/lidar_fake_perception/lib/pkgconfig/lidar_fake_perception.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_fake_perception.pc

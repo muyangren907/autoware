@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/op_simulation_package
+
+Name: op_simulation_package
+Description: Description of op_simulation_package
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_planning/op_simulation_package/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/op_simulation_package/lib 
+Requires: roscpp geometry_msgs autoware_msgs map_file op_utility op_planner op_simu op_ros_helpers waypoint_follower

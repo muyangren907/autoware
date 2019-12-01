@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_euclidean_cluster_detect/lib/pkgconfig/lidar_euclidean_cluster_detect.pc

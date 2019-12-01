@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/ymc
+
+Name: ymc
+Description: Description of ymc
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/ymc/lib 
+Requires: roscpp geometry_msgs rosconsole autoware_msgs ds4_msgs

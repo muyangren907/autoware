@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libpixel_cloud_fusion_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/pixel_cloud_fusion.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/pixel_cloud_fusion/pixel_cloud_fusion

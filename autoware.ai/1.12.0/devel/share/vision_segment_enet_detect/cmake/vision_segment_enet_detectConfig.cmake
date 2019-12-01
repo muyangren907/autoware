@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vision_segment_enet_detect/share/vision_segment_enet_detect/cmake/vision_segment_enet_detectConfig.cmake

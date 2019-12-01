@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_euclidean_cluster_detect/share/lidar_euclidean_cluster_detect/cmake/lidar_euclidean_cluster_detectConfig-version.cmake

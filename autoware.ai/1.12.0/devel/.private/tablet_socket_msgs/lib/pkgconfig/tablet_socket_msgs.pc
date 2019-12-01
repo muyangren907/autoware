@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/tablet_socket_msgs
+
+Name: tablet_socket_msgs
+Description: Description of tablet_socket_msgs
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/devel/.private/tablet_socket_msgs/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/tablet_socket_msgs/lib 
+Requires: message_runtime std_msgs

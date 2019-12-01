@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/setup.sh

@@ -1,0 +1,3 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_external_msgs/cmake/autoware_external_msgsConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_external_msgs/cmake/autoware_external_msgsConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_external_msgs.pc

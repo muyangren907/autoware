@@ -1,0 +1,8 @@
+In file included from [01m[K/home/myr907/autoware.ai/src/autoware/core_perception/trafficlight_recognizer/lib/Context.cpp:1:0[m[K:
+[01m[K/home/myr907/autoware.ai/src/autoware/core_perception/trafficlight_recognizer/include/Context.h:[m[K In static member function ‘[01m[Kstatic void Context::SetContexts(std::vector<Context>&, const ConstPtr&, int, int)[m[K’:
+[01m[K/home/myr907/autoware.ai/src/autoware/core_perception/trafficlight_recognizer/include/Context.h:14:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kcurrent_signal_context.Context::newCandidateLightState[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+ class [01;35m[KContext[m[K
+       [01;35m[K^~~~~~~[m[K
+[01m[K/home/myr907/autoware.ai/src/autoware/core_perception/trafficlight_recognizer/include/Context.h:14:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kcurrent_signal_context.Context::newCandidateLightState[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+ class [01;35m[KContext[m[K
+       [01;35m[K^~~~~~~[m[K

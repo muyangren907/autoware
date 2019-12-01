@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/kvaser/cmake/kvaserConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/kvaser/cmake/kvaserConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/kvaser/can_converter
+Symlinking /home/myr907/autoware.ai/devel/lib/kvaser/can_draw
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/kvaser.pc

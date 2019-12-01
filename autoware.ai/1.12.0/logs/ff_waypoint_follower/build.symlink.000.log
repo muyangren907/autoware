@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/ff_waypoint_follower.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/ff_waypoint_follower/ff_waypoint_follower

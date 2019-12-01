@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+85f1e958c0c7ad6401cd59a5b662b431 CMakeFiles/clean_test_results
+f8ec3b4cbdd6ea755a2e0047deb45464 CMakeFiles/rosinterface_autogen
+392d08f0083727e13ff89207625d07b0 include/rosinterface/moc_rosinterface.cpp

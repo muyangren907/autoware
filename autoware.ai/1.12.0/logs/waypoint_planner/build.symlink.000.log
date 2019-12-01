@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_planner/cmake/waypoint_plannerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/waypoint_planner/cmake/waypoint_plannerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_planner/astar_avoid
+Symlinking /home/myr907/autoware.ai/devel/lib/waypoint_planner/velocity_set
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/waypoint_planner.pc

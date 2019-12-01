@@ -1,0 +1,6 @@
+devel_space: /home/myr907/autoware.ai/devel
+install: false
+install_space: /home/myr907/autoware.ai/install
+profile: default
+source_space: /home/myr907/autoware.ai/src
+workspace: /home/myr907/autoware.ai

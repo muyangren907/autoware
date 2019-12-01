@@ -1,0 +1,6 @@
+autoware/utilities/oculus_socket
+/home/myr907/autoware.ai/devel/.private/oculus_socket/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig-version.cmake /home/myr907/autoware.ai/devel/share/oculus_socket/cmake/oculus_socketConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig.cmake /home/myr907/autoware.ai/devel/share/oculus_socket/cmake/oculus_socketConfig.cmake
+/home/myr907/autoware.ai/devel/.private/oculus_socket/lib/oculus_socket/oculus_sender /home/myr907/autoware.ai/devel/lib/oculus_socket/oculus_sender
+/home/myr907/autoware.ai/devel/.private/oculus_socket/lib/pkgconfig/oculus_socket.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/oculus_socket.pc

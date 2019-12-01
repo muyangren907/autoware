@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_rviz_plugins/share/autoware_rviz_plugins/cmake/autoware_rviz_pluginsConfig.cmake

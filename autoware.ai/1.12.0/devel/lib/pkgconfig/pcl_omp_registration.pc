@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/pcl_omp_registration/lib/pkgconfig/pcl_omp_registration.pc

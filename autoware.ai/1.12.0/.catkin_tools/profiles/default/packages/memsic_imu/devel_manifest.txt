@@ -1,0 +1,6 @@
+drivers/awf_drivers/memsic
+/home/myr907/autoware.ai/devel/.private/memsic_imu/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake /home/myr907/autoware.ai/devel/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake /home/myr907/autoware.ai/devel/share/memsic_imu/cmake/memsic_imuConfig.cmake
+/home/myr907/autoware.ai/devel/.private/memsic_imu/lib/memsic_imu/vg440_node /home/myr907/autoware.ai/devel/lib/memsic_imu/vg440_node
+/home/myr907/autoware.ai/devel/.private/memsic_imu/lib/pkgconfig/memsic_imu.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/memsic_imu.pc

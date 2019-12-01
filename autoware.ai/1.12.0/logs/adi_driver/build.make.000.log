@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target adis16470_node[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/adis16470_node.dir/src/adis16470_node.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/adis16470_node.dir/src/adis16470.cpp.o[0m
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/analog_devices/src/adis16470.cpp:[m[K In member function ‘[01m[Kint Adis16470::read_register(char, int16_t&)[m[K’:
+[01m[K/home/myr907/autoware.ai/src/drivers/awf_drivers/analog_devices/src/adis16470.cpp:201:47:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kaddress[m[K’ from ‘[01m[Kchar[m[K’ to ‘[01m[Kunsigned char[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+   unsigned char buff[3] = {0x61, address, 0x00[01;35m[K}[m[K;
+                                               [01;35m[K^[m[K
+[35m[1mScanning dependencies of target adxl345_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/adxl345_node.dir/src/adxl345_node.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/adxl345_node.dir/src/adxl345.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/adi_driver/lib/adi_driver/adis16470_node[0m
+[ 83%] Built target adis16470_node
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/adi_driver/lib/adi_driver/adxl345_node[0m
+[100%] Built target adxl345_node

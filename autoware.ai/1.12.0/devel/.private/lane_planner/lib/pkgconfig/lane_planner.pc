@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/lane_planner
+
+Name: lane_planner
+Description: Description of lane_planner
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_planning/lane_planner/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/lane_planner/lib -llane_planner
+Requires: roscpp std_msgs waypoint_follower vector_map gnss autoware_msgs

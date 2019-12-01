@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/ndt_tku
+
+Name: ndt_tku
+Description: Description of ndt_tku
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_perception/ndt_tku/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/ndt_tku/lib -lndt_tku
+Requires: 

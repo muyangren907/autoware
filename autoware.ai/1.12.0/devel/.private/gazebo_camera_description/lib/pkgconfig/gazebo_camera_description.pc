@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/gazebo_camera_description
+
+Name: gazebo_camera_description
+Description: Description of gazebo_camera_description
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/gazebo_camera_description/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/cmake/lidar_apollo_cnn_seg_detectConfig-version.cmake

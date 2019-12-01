@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/naive_motion_predict/cmake/naive_motion_predictConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/naive_motion_predict/cmake/naive_motion_predictConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/naive_motion_predict/naive_motion_predict
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/naive_motion_predict.pc

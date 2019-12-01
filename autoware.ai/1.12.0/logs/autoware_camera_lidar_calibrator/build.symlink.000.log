@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_camera_lidar_calibrator/cmake/autoware_camera_lidar_calibratorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_camera_lidar_calibrator/cmake/autoware_camera_lidar_calibratorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_camera_lidar_calibrator/autoware_camera_lidar_calibration_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_camera_lidar_calibrator.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/autoware_camera_calibration/__init__.py

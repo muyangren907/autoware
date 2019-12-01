@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: calibration_publisher
+Description: Description of calibration_publisher
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp std_msgs sensor_msgs cv_bridge image_transport autoware_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: fastvirtualscan
+Description: Description of fastvirtualscan
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/install/include
+Libs: -L/home/myr907/autoware.ai/install/lib -lfastvirtualscan
+Requires: roscpp sensor_msgs

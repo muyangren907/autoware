@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vector_map_msgs/share/vector_map_msgs/cmake/vector_map_msgs-msg-paths.cmake

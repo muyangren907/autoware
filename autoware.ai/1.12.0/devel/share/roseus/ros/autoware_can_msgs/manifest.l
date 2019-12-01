@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_can_msgs/share/roseus/ros/autoware_can_msgs/manifest.l

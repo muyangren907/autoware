@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: udon_socket
+Description: Description of udon_socket
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/install/include
+Libs: -L/home/myr907/autoware.ai/install/lib -ludon
+Requires: tablet_socket_msgs

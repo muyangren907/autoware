@@ -1,0 +1,5 @@
+autoware/utilities/sound_player
+/home/myr907/autoware.ai/devel/.private/sound_player/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/sound_player/share/sound_player/cmake/sound_playerConfig.cmake /home/myr907/autoware.ai/devel/share/sound_player/cmake/sound_playerConfig.cmake
+/home/myr907/autoware.ai/devel/.private/sound_player/share/sound_player/cmake/sound_playerConfig-version.cmake /home/myr907/autoware.ai/devel/share/sound_player/cmake/sound_playerConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/sound_player/lib/pkgconfig/sound_player.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/sound_player.pc

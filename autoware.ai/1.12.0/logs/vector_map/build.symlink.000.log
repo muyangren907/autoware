@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/vector_map/cmake/vector_mapConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/vector_map/cmake/vector_mapConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libvector_map.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/vector_map.pc

@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/gnss/cmake/gnssConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/gnss/cmake/gnssConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libgnss.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/gnss.pc

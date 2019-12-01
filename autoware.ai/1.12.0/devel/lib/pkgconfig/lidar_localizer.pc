@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_localizer/lib/pkgconfig/lidar_localizer.pc

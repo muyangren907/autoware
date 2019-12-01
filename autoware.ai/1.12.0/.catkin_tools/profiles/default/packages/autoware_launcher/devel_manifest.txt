@@ -1,0 +1,6 @@
+autoware/utilities/autoware_launcher
+/home/myr907/autoware.ai/devel/.private/autoware_launcher/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig-version.cmake /home/myr907/autoware.ai/devel/share/autoware_launcher/cmake/autoware_launcherConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig.cmake /home/myr907/autoware.ai/devel/share/autoware_launcher/cmake/autoware_launcherConfig.cmake
+/home/myr907/autoware.ai/devel/.private/autoware_launcher/lib/pkgconfig/autoware_launcher.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_launcher.pc
+/home/myr907/autoware.ai/devel/.private/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/__init__.py /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/autoware_launcher/__init__.py

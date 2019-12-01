@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/lidar_point_pillars
+
+Name: lidar_point_pillars
+Description: Description of lidar_point_pillars
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/lidar_point_pillars/lib 
+Requires: 

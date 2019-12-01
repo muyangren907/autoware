@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/gazebo_imu_description/lib/pkgconfig/gazebo_imu_description.pc

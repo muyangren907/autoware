@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: autoware_rviz_plugins
+Description: Description of autoware_rviz_plugins
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: rviz

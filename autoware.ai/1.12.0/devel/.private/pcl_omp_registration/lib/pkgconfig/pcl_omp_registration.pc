@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/pcl_omp_registration
+
+Name: pcl_omp_registration
+Description: Description of pcl_omp_registration
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_perception/pcl_omp_registration/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/pcl_omp_registration/lib -lpcl_omp_registration
+Requires: 

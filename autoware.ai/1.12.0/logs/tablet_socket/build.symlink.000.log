@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/tablet_socket/cmake/tablet_socketConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/tablet_socket/cmake/tablet_socketConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/tablet_socket/tablet_sender
+Symlinking /home/myr907/autoware.ai/devel/lib/tablet_socket/tablet_receiver
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/tablet_socket.pc

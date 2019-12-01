@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/libvectormap/share/libvectormap/cmake/libvectormapConfig-version.cmake

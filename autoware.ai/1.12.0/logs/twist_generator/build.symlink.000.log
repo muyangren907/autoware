@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/twist_generator/cmake/twist_generatorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/twist_generator/cmake/twist_generatorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/twist_generator.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/twist_generator/vehicle_status_converter

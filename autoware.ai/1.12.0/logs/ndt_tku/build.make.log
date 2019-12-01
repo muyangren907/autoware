@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target ndt_tku[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/algebra.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/newton.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/manage_ND.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/ndt_tku/lib/libndt_tku.so[0m
+[100%] Built target ndt_tku

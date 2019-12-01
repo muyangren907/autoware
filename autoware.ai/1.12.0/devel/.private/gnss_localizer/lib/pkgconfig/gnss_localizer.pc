@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/gnss_localizer
+
+Name: gnss_localizer
+Description: Description of gnss_localizer
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/gnss_localizer/lib 
+Requires: 

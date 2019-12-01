@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/integrated_viewer/cmake/integrated_viewerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/integrated_viewer/cmake/integrated_viewerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libintegrated_viewer.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/integrated_viewer.pc

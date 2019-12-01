@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/mqtt_socket/cmake/mqtt_socketConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/mqtt_socket/cmake/mqtt_socketConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/mqtt_socket/mqtt_sender
+Symlinking /home/myr907/autoware.ai/devel/lib/mqtt_socket/mqtt_receiver
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/mqtt_socket.pc

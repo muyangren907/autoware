@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/tablet_socket_msgs/share/common-lisp/ros/tablet_socket_msgs/msg/mode_cmd.lisp

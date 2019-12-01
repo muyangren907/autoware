@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/gnss_localizer/cmake/gnss_localizerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/gnss_localizer/cmake/gnss_localizerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/gnss_localizer/nmea2tfpose
+Symlinking /home/myr907/autoware.ai/devel/lib/gnss_localizer/fix2tfpose
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/gnss_localizer.pc

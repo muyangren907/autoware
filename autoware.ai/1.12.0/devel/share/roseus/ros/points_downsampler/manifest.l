@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/points_downsampler/share/roseus/ros/points_downsampler/manifest.l

@@ -1,0 +1,7 @@
+autoware/utilities/vehicle_socket
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/share/vehicle_socket/cmake/vehicle_socketConfig-version.cmake /home/myr907/autoware.ai/devel/share/vehicle_socket/cmake/vehicle_socketConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/share/vehicle_socket/cmake/vehicle_socketConfig.cmake /home/myr907/autoware.ai/devel/share/vehicle_socket/cmake/vehicle_socketConfig.cmake
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/lib/vehicle_socket/vehicle_receiver /home/myr907/autoware.ai/devel/lib/vehicle_socket/vehicle_receiver
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/lib/vehicle_socket/vehicle_sender /home/myr907/autoware.ai/devel/lib/vehicle_socket/vehicle_sender
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/lib/pkgconfig/vehicle_socket.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/vehicle_socket.pc

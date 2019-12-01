@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: oculus_socket
+Description: Description of oculus_socket
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: 

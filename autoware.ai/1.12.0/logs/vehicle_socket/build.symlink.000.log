@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/vehicle_socket/cmake/vehicle_socketConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/vehicle_socket/cmake/vehicle_socketConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/vehicle_socket/vehicle_receiver
+Symlinking /home/myr907/autoware.ai/devel/lib/vehicle_socket/vehicle_sender
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/vehicle_socket.pc

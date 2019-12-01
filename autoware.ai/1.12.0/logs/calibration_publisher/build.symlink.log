@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/calibration_publisher/cmake/calibration_publisherConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/calibration_publisher/cmake/calibration_publisherConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/calibration_publisher/calibration_publisher
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/calibration_publisher.pc

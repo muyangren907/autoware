@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/op_ros_helpers/cmake/op_ros_helpersConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/op_ros_helpers/cmake/op_ros_helpersConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libop_ros_helpers.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/op_ros_helpers.pc

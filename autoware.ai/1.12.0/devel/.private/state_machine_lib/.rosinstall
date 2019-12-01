@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/myr907/autoware.ai/devel/.private/state_machine_lib/setup.sh

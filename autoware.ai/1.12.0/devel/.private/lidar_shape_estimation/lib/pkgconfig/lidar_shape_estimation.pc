@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/lidar_shape_estimation
+
+Name: lidar_shape_estimation
+Description: Description of lidar_shape_estimation
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/core_perception/lidar_shape_estimation/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/lidar_shape_estimation/lib 
+Requires: autoware_build_flags autoware_msgs pcl_ros roscpp tf2 tf2_geometry_msgs

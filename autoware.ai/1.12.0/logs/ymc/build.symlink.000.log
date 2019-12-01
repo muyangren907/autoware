@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/ymc/cmake/ymcConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/ymc/cmake/ymcConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/ymc.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/ymc/g30esli_interface

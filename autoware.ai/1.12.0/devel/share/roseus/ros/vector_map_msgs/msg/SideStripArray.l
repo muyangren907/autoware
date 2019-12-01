@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SideStripArray.l

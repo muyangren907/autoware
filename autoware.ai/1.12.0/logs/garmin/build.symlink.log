@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/garmin/cmake/garminConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/garmin/cmake/garminConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/garmin/garmin_gps_18x_lvc
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/garmin.pc

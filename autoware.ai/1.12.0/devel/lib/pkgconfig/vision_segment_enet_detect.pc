@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vision_segment_enet_detect/lib/pkgconfig/vision_segment_enet_detect.pc

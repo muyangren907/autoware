@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/lidar_apollo_cnn_seg_detect/lib/pkgconfig/lidar_apollo_cnn_seg_detect.pc

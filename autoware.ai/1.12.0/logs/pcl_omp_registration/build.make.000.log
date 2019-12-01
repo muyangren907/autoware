@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target pcl_omp_registration[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pcl_omp_registration.dir/src/ndt.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/pcl_omp_registration/lib/libpcl_omp_registration.so[0m
+[100%] Built target pcl_omp_registration

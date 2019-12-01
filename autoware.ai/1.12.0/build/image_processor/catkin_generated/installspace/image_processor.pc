@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: image_processor
+Description: Description of image_processor
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: sensor_msgs cv_bridge

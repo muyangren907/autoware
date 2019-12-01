@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_fake_perception/lidar_fake_perception_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_fake_perception.pc

@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/points_downsampler/share/common-lisp/ros/points_downsampler/msg/_package.lisp

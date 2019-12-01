@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/glviewer
+
+Name: glviewer
+Description: Description of glviewer
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/autoware/visualization/glviewer/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/glviewer/lib -lglviewer
+Requires: roscpp

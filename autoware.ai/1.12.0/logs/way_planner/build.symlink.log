@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/way_planner/cmake/way_plannerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/way_planner/cmake/way_plannerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/way_planner/way_planner
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/way_planner.pc

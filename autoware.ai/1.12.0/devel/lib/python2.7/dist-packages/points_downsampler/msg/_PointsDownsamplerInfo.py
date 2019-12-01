@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg/_PointsDownsamplerInfo.py

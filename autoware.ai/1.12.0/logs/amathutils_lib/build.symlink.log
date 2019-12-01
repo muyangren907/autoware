@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/amathutils_lib/cmake/amathutils_libConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/amathutils_lib/cmake/amathutils_libConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libamathutils_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/amathutils_lib.pc

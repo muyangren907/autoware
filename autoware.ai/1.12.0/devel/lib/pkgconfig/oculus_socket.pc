@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/oculus_socket/lib/pkgconfig/oculus_socket.pc

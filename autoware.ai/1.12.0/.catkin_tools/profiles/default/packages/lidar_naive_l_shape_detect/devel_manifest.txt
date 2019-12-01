@@ -1,0 +1,6 @@
+autoware/core_perception/lidar_naive_l_shape_detect
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig-version.cmake /home/myr907/autoware.ai/devel/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig.cmake /home/myr907/autoware.ai/devel/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig.cmake
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/lib/lidar_naive_l_shape_detect/lidar_naive_l_shape_detect /home/myr907/autoware.ai/devel/lib/lidar_naive_l_shape_detect/lidar_naive_l_shape_detect
+/home/myr907/autoware.ai/devel/.private/lidar_naive_l_shape_detect/lib/pkgconfig/lidar_naive_l_shape_detect.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_naive_l_shape_detect.pc

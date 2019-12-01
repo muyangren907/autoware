@@ -1,0 +1,3 @@
+Symlinking /home/myr907/autoware.ai/devel/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/gazebo_imu_description.pc

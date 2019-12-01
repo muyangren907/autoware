@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/mqtt_socket/share/mqtt_socket/cmake/mqtt_socketConfig-version.cmake

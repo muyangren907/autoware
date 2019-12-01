@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_launcher/cmake/autoware_launcherConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_launcher/cmake/autoware_launcherConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_launcher.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/python2.7/dist-packages/autoware_launcher/__init__.py

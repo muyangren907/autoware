@@ -1,0 +1,5 @@
+autoware/utilities/kitti_launch
+/home/myr907/autoware.ai/devel/.private/kitti_launch/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig-version.cmake /home/myr907/autoware.ai/devel/share/kitti_launch/cmake/kitti_launchConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig.cmake /home/myr907/autoware.ai/devel/share/kitti_launch/cmake/kitti_launchConfig.cmake
+/home/myr907/autoware.ai/devel/.private/kitti_launch/lib/pkgconfig/kitti_launch.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/kitti_launch.pc

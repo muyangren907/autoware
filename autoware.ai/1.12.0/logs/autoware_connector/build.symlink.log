@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_connector/cmake/autoware_connectorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_connector/cmake/autoware_connectorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_connector/can_status_translator
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_connector/can_odometry
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_connector.pc

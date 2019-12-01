@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: lgsvl_simulator_bridge
+Description: Description of lgsvl_simulator_bridge
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: autoware_msgs geometry_msgs roscpp rospy sensor_msgs rqt_gui rqt_gui_py

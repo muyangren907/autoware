@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/share/vehicle_socket/cmake/vehicle_socketConfig-version.cmake

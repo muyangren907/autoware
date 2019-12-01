@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/waypoint_planner/lib/pkgconfig/waypoint_planner.pc

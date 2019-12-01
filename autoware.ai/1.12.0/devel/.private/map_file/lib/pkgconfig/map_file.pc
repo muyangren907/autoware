@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/map_file
+
+Name: map_file
+Description: Description of map_file
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/map_file/lib 
+Requires: 

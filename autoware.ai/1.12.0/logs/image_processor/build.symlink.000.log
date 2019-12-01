@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/image_processor/cmake/image_processorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/image_processor/cmake/image_processorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/image_processor/image_rectifier
+Symlinking /home/myr907/autoware.ai/devel/lib/image_processor/image_rotator
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/image_processor.pc

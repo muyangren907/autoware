@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/decision_maker_panel/cmake/decision_maker_panelConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/decision_maker_panel/cmake/decision_maker_panelConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libdecision_maker_panel.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/decision_maker_panel.pc

@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/sick_lms5xx/cmake/sick_lms5xxConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/sick_lms5xx/cmake/sick_lms5xxConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/sick_lms5xx/lms511_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/sick_lms5xx.pc

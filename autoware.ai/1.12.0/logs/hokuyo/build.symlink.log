@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/hokuyo/cmake/hokuyoConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/hokuyo/cmake/hokuyoConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/hokuyo/hokuyo_3d
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/hokuyo.pc

@@ -1,0 +1,5 @@
+autoware/utilities/kitti_box_publisher
+/home/myr907/autoware.ai/devel/.private/kitti_box_publisher/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig.cmake /home/myr907/autoware.ai/devel/share/kitti_box_publisher/cmake/kitti_box_publisherConfig.cmake
+/home/myr907/autoware.ai/devel/.private/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig-version.cmake /home/myr907/autoware.ai/devel/share/kitti_box_publisher/cmake/kitti_box_publisherConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/kitti_box_publisher/lib/pkgconfig/kitti_box_publisher.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/kitti_box_publisher.pc

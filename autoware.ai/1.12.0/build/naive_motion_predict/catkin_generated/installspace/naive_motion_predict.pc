@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: naive_motion_predict
+Description: Description of naive_motion_predict
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp sensor_msgs autoware_msgs tf imm_ukf_pda_track

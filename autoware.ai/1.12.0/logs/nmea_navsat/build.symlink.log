@@ -1,0 +1,3 @@
+Symlinking /home/myr907/autoware.ai/devel/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/nmea_navsat.pc

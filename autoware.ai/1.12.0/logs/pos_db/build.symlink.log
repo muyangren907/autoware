@@ -1,0 +1,6 @@
+Symlinking /home/myr907/autoware.ai/devel/share/pos_db/cmake/pos_dbConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/pos_db/cmake/pos_dbConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libpos_db.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pos_db/pos_downloader
+Symlinking /home/myr907/autoware.ai/devel/lib/pos_db/pos_uploader
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/pos_db.pc

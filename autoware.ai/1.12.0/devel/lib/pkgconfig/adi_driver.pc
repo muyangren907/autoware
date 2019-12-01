@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/adi_driver/lib/pkgconfig/adi_driver.pc

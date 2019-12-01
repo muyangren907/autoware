@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/map_tf_generator/cmake/map_tf_generatorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/map_tf_generator/cmake/map_tf_generatorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/map_tf_generator/map_tf_generator
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/map_tf_generator.pc

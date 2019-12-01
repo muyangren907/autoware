@@ -1,0 +1,6 @@
+Symlinking /home/myr907/autoware.ai/devel/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libmicrostrain_driver.so
+Symlinking /home/myr907/autoware.ai/devel/lib/microstrain_driver/3dm_gx5_15_node
+Symlinking /home/myr907/autoware.ai/devel/lib/microstrain_driver/3dm_gx5_45_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/microstrain_driver.pc

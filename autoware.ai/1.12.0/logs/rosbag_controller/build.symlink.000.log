@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/librosbag_controller.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/rosbag_controller.pc

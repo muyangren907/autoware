@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target rosinterface_autogen[0m
+[ 16%] [34m[1mAutomatic MOC for target rosinterface[0m
+[ 16%] Built target rosinterface_autogen
+[ 33%] [34m[1mGenerating include/rosinterface/moc_rosinterface.cpp[0m
+[35m[1mScanning dependencies of target rosinterface[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosinterface.dir/ROSInterface/rosinterface.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rosinterface.dir/include/rosinterface/moc_rosinterface.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rosinterface.dir/rosinterface_autogen/mocs_compilation.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/rosinterface/lib/librosinterface.so[0m
+[100%] Built target rosinterface

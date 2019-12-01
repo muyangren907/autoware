@@ -1,0 +1,7 @@
+autoware/utilities/tablet_socket
+/home/myr907/autoware.ai/devel/.private/tablet_socket/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/tablet_socket/share/tablet_socket/cmake/tablet_socketConfig.cmake /home/myr907/autoware.ai/devel/share/tablet_socket/cmake/tablet_socketConfig.cmake
+/home/myr907/autoware.ai/devel/.private/tablet_socket/share/tablet_socket/cmake/tablet_socketConfig-version.cmake /home/myr907/autoware.ai/devel/share/tablet_socket/cmake/tablet_socketConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/tablet_socket/lib/tablet_socket/tablet_sender /home/myr907/autoware.ai/devel/lib/tablet_socket/tablet_sender
+/home/myr907/autoware.ai/devel/.private/tablet_socket/lib/tablet_socket/tablet_receiver /home/myr907/autoware.ai/devel/lib/tablet_socket/tablet_receiver
+/home/myr907/autoware.ai/devel/.private/tablet_socket/lib/pkgconfig/tablet_socket.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/tablet_socket.pc

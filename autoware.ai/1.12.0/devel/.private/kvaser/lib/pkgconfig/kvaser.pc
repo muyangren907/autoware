@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/kvaser
+
+Name: kvaser
+Description: Description of kvaser
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/kvaser/lib 
+Requires: std_msgs visualization_msgs autoware_can_msgs

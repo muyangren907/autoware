@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/astar_search/cmake/astar_searchConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/astar_search/cmake/astar_searchConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libastar_search.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/astar_search.pc

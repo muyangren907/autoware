@@ -1,0 +1,28 @@
+[35m[1mScanning dependencies of target pcd2csv[0m
+[  7%] [32mBuilding CXX object CMakeFiles/pcd2csv.dir/nodes/pcd_converter/pcd2csv.cpp.o[0m
+[35m[1mScanning dependencies of target pcd_binarizer[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/pcd_binarizer.dir/nodes/pcd_binarizer/pcd_binarizer.cpp.o[0m
+[35m[1mScanning dependencies of target csv2pcd[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/csv2pcd.dir/nodes/pcd_converter/csv2pcd.cpp.o[0m
+[35m[1mScanning dependencies of target pcd_arealist[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/pcd_arealist.dir/nodes/pcd_arealist/pcd_arealist.cpp.o[0m
+[35m[1mScanning dependencies of target pcd_filter[0m
+[35m[1mScanning dependencies of target map_extender[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/pcd_filter.dir/nodes/pcd_filter/pcd_filter.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/map_extender.dir/nodes/map_extender/map_extender.cpp.o[0m
+[35m[1mScanning dependencies of target pcd_grid_divider[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pcd_grid_divider.dir/nodes/pcd_grid_divider/pcd_grid_divider.cpp.o[0m
+[ 57%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/pcd2csv[0m
+[ 57%] Built target pcd2csv
+[ 64%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/pcd_binarizer[0m
+[ 71%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/csv2pcd[0m
+[ 78%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/pcd_arealist[0m
+[ 78%] Built target pcd_binarizer
+[ 78%] Built target csv2pcd
+[ 78%] Built target pcd_arealist
+[ 85%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/pcd_filter[0m
+[ 92%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/pcd_grid_divider[0m
+[ 92%] Built target pcd_grid_divider
+[ 92%] Built target pcd_filter
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/map_tools/lib/map_tools/map_extender[0m
+[100%] Built target map_extender

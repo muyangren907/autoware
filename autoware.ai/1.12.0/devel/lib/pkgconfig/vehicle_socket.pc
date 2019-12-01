@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/vehicle_socket/lib/pkgconfig/vehicle_socket.pc

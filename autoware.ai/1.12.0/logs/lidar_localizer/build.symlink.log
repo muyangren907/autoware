@@ -1,0 +1,13 @@
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_localizer/cmake/lidar_localizerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/lidar_localizer/cmake/lidar_localizerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libndt_matching_monitor_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/lidar_localizer.pc
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/icp_matching
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/queue_counter
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/mapping
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/ndt_mapping_tku
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/ndt_matching
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/ndt_matching_tku
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/ndt_matching_monitor
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/approximate_ndt_mapping
+Symlinking /home/myr907/autoware.ai/devel/lib/lidar_localizer/ndt_mapping

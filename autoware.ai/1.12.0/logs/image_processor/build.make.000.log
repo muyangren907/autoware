@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target image_rectifier[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/image_rectifier.dir/nodes/image_rectifier/image_rectifier_node.cpp.o[0m
+[35m[1mScanning dependencies of target image_rotator[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/image_rotator.dir/nodes/image_rotator/image_rotator_node.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/image_processor/lib/image_processor/image_rotator[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/image_processor/lib/image_processor/image_rectifier[0m
+[100%] Built target image_rotator
+[100%] Built target image_rectifier

@@ -1,0 +1,10 @@
+Symlinking /home/myr907/autoware.ai/devel/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/liblibcontext.so
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/label_maker
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/feat_proj
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/region_tlr
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/tlr_tuner
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/tl_switch
+Symlinking /home/myr907/autoware.ai/devel/lib/trafficlight_recognizer/roi_extractor
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/trafficlight_recognizer.pc

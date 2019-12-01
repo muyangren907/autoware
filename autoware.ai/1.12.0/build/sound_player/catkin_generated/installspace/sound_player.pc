@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: sound_player
+Description: Description of sound_player
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: rospy std_msgs

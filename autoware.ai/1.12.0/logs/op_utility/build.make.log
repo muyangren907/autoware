@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target op_utility[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/op_utility.dir/src/DataRW.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/op_utility.dir/src/UtilityH.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/op_utility/lib/libop_utility.so[0m
+[100%] Built target op_utility

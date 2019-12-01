@@ -1,0 +1,5 @@
+Symlinking /home/myr907/autoware.ai/devel/share/costmap_generator/cmake/costmap_generatorConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/costmap_generator/cmake/costmap_generatorConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libcostmap_generator_lib.so
+Symlinking /home/myr907/autoware.ai/devel/lib/costmap_generator/costmap_generator
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/costmap_generator.pc

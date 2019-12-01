@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/autoware_config_msgs_generate_messages_py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigICP.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigRingFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigLaneRule.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigDecisionMaker.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigLatticeVelocitySet.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigRcnn.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigDistanceFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigWaypointFollower.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigNDTMappingOutput.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigCarDPM.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigVelocitySet.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigSSD.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigLaneStop.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigPoints2Polygon.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigRandomFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigCompareMapFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigVoxelGridFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigPlannerSelector.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigPedestrianFusion.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigPedestrianKF.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigLaneSelect.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigCarFusion.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigRingGroundFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigApproximateNDTMapping.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigCarKF.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigTwistFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigNDTMapping.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigWaypointReplanner.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigPedestrianDPM.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigNDT.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/_ConfigRayGroundFilter.py"
+  "/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/lib/python2.7/dist-packages/autoware_config_msgs/msg/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/autoware_config_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

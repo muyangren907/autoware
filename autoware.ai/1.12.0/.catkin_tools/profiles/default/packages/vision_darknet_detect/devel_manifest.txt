@@ -1,0 +1,7 @@
+autoware/core_perception/vision_darknet_detect
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/share/vision_darknet_detect/cmake/vision_darknet_detectConfig.cmake /home/myr907/autoware.ai/devel/share/vision_darknet_detect/cmake/vision_darknet_detectConfig.cmake
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/share/vision_darknet_detect/cmake/vision_darknet_detectConfig-version.cmake /home/myr907/autoware.ai/devel/share/vision_darknet_detect/cmake/vision_darknet_detectConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/lib/libvision_darknet_detect_lib.so /home/myr907/autoware.ai/devel/lib/libvision_darknet_detect_lib.so
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/lib/vision_darknet_detect/vision_darknet_detect /home/myr907/autoware.ai/devel/lib/vision_darknet_detect/vision_darknet_detect
+/home/myr907/autoware.ai/devel/.private/vision_darknet_detect/lib/pkgconfig/vision_darknet_detect.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/vision_darknet_detect.pc

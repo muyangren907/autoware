@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: imm_ukf_pda_track
+Description: Description of imm_ukf_pda_track
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp pcl_ros autoware_msgs tf vector_map

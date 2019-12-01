@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/hokuyo
+
+Name: hokuyo
+Description: Description of hokuyo
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/hokuyo/lib 
+Requires: roscpp sensor_msgs

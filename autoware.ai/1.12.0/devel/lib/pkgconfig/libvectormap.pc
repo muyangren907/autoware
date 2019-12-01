@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/libvectormap/lib/pkgconfig/libvectormap.pc

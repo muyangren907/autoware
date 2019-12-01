@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target fastvirtualscan[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/fastvirtualscan.dir/FastVirtualScan/fastvirtualscan.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/myr907/autoware.ai/devel/.private/fastvirtualscan/lib/libfastvirtualscan.so[0m
+[100%] Built target fastvirtualscan

@@ -1,0 +1,6 @@
+Symlinking /home/myr907/autoware.ai/devel/share/op_simulation_package/cmake/op_simulation_packageConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/op_simulation_package/cmake/op_simulation_packageConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/op_simulation_package/op_signs_simulator
+Symlinking /home/myr907/autoware.ai/devel/lib/op_simulation_package/op_car_simulator
+Symlinking /home/myr907/autoware.ai/devel/lib/op_simulation_package/op_perception_simulator
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/op_simulation_package.pc

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/data_preprocessor
+
+Name: data_preprocessor
+Description: Description of data_preprocessor
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/data_preprocessor/lib 
+Requires: 

@@ -1,0 +1,7 @@
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_health_checker/cmake/autoware_health_checkerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/autoware_health_checker/cmake/autoware_health_checkerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libsystem_status_subscriber.so
+Symlinking /home/myr907/autoware.ai/devel/lib/libnode_status_publisher.so
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_health_checker/health_analyzer
+Symlinking /home/myr907/autoware.ai/devel/lib/autoware_health_checker/health_aggregator
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/autoware_health_checker.pc

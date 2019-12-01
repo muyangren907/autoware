@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/vectacam
+
+Name: vectacam
+Description: Description of vectacam
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/vectacam/lib -lvectacam
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: memsic_imu
+Description: Description of memsic_imu
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: roscpp std_msgs

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target oculus_sender[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/oculus_sender.dir/nodes/oculus_sender/oculus_sender.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/oculus_socket/lib/oculus_socket/oculus_sender[0m
+[100%] Built target oculus_sender

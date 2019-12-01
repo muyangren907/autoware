@@ -1,0 +1,7 @@
+autoware/core_perception/pixel_cloud_fusion
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig.cmake /home/myr907/autoware.ai/devel/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig.cmake
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig-version.cmake /home/myr907/autoware.ai/devel/share/pixel_cloud_fusion/cmake/pixel_cloud_fusionConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/lib/libpixel_cloud_fusion_lib.so /home/myr907/autoware.ai/devel/lib/libpixel_cloud_fusion_lib.so
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/lib/pkgconfig/pixel_cloud_fusion.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/pixel_cloud_fusion.pc
+/home/myr907/autoware.ai/devel/.private/pixel_cloud_fusion/lib/pixel_cloud_fusion/pixel_cloud_fusion /home/myr907/autoware.ai/devel/lib/pixel_cloud_fusion/pixel_cloud_fusion

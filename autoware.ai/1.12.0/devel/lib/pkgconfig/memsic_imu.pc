@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/memsic_imu/lib/pkgconfig/memsic_imu.pc

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: libvectormap
+Description: Description of libvectormap
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/install/include -I/usr/include/eigen3
+Libs: -L/home/myr907/autoware.ai/install/lib -llibvectormap
+Requires: vector_map

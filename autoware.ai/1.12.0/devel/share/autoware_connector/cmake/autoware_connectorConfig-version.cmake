@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_connector/share/autoware_connector/cmake/autoware_connectorConfig-version.cmake

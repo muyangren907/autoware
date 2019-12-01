@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target vectacam_node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/vectacam_node.dir/nodes/vectacam/vectacam_node.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/vectacam_node.dir/nodes/vectacam/VectaCam.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/myr907/autoware.ai/devel/.private/vectacam/lib/vectacam/vectacam_node[0m
+[100%] Built target vectacam_node

@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/sick_ldmrs_description
+
+Name: sick_ldmrs_description
+Description: Description of sick_ldmrs_description
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/devel/.private/sick_ldmrs_description/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/glviewer/cmake/glviewerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/glviewer/cmake/glviewerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libglviewer.so
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/glviewer.pc

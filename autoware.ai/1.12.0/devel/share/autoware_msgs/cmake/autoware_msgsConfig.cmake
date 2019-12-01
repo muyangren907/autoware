@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_msgs/share/autoware_msgs/cmake/autoware_msgsConfig.cmake

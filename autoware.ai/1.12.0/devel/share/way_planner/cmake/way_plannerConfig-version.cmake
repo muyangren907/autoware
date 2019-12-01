@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/way_planner/share/way_planner/cmake/way_plannerConfig-version.cmake

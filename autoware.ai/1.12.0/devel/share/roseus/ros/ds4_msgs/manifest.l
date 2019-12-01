@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/ds4_msgs/share/roseus/ros/ds4_msgs/manifest.l

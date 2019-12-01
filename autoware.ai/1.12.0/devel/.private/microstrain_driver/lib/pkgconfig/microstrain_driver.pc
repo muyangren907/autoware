@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/devel/.private/microstrain_driver
+
+Name: microstrain_driver
+Description: Description of microstrain_driver
+Version: 1.11.0
+Cflags: -I/home/myr907/autoware.ai/src/drivers/awf_drivers/microstrain/include
+Libs: -L/home/myr907/autoware.ai/devel/.private/microstrain_driver/lib 
+Requires: roscpp cmake_modules tf2 tf2_ros std_msgs std_srvs geometry_msgs sensor_msgs nav_msgs

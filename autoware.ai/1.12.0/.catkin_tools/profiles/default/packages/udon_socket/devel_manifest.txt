@@ -1,0 +1,8 @@
+autoware/utilities/udon_socket
+/home/myr907/autoware.ai/devel/.private/udon_socket/cmake.lock /home/myr907/autoware.ai/devel/./cmake.lock
+/home/myr907/autoware.ai/devel/.private/udon_socket/share/udon_socket/cmake/udon_socketConfig.cmake /home/myr907/autoware.ai/devel/share/udon_socket/cmake/udon_socketConfig.cmake
+/home/myr907/autoware.ai/devel/.private/udon_socket/share/udon_socket/cmake/udon_socketConfig-version.cmake /home/myr907/autoware.ai/devel/share/udon_socket/cmake/udon_socketConfig-version.cmake
+/home/myr907/autoware.ai/devel/.private/udon_socket/lib/libudon.so /home/myr907/autoware.ai/devel/lib/libudon.so
+/home/myr907/autoware.ai/devel/.private/udon_socket/lib/udon_socket/udon_receiver /home/myr907/autoware.ai/devel/lib/udon_socket/udon_receiver
+/home/myr907/autoware.ai/devel/.private/udon_socket/lib/udon_socket/udon_sender /home/myr907/autoware.ai/devel/lib/udon_socket/udon_sender
+/home/myr907/autoware.ai/devel/.private/udon_socket/lib/pkgconfig/udon_socket.pc /home/myr907/autoware.ai/devel/lib/pkgconfig/udon_socket.pc

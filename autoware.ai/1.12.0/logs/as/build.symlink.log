@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/as/cmake/asConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/as/cmake/asConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/as/ssc_interface
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/as.pc

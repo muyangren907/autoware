@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/oculus_socket/cmake/oculus_socketConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/oculus_socket/cmake/oculus_socketConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/oculus_socket/oculus_sender
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/oculus_socket.pc

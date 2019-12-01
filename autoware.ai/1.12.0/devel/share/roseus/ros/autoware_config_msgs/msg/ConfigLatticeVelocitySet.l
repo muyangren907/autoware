@@ -1,0 +1,1 @@
+/home/myr907/autoware.ai/devel/.private/autoware_config_msgs/share/roseus/ros/autoware_config_msgs/msg/ConfigLatticeVelocitySet.l

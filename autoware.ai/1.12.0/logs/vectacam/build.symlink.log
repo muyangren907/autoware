@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/vectacam/cmake/vectacamConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/vectacam/cmake/vectacamConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/vectacam/vectacam_node
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/vectacam.pc

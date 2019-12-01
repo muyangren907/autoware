@@ -1,0 +1,7 @@
+Symlinking /home/myr907/autoware.ai/devel/share/map_file/cmake/map_fileConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/map_file/cmake/map_fileConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/libget_file.so
+Symlinking /home/myr907/autoware.ai/devel/lib/map_file/vector_map_loader
+Symlinking /home/myr907/autoware.ai/devel/lib/map_file/points_map_loader
+Symlinking /home/myr907/autoware.ai/devel/lib/map_file/points_map_filter
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/map_file.pc

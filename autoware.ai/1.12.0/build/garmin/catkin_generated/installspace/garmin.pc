@@ -1,0 +1,8 @@
+prefix=/home/myr907/autoware.ai/install
+
+Name: garmin
+Description: Description of garmin
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/myr907/autoware.ai/install/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/myr907/autoware.ai/devel/share/freespace_planner/cmake/freespace_plannerConfig-version.cmake
+Symlinking /home/myr907/autoware.ai/devel/share/freespace_planner/cmake/freespace_plannerConfig.cmake
+Symlinking /home/myr907/autoware.ai/devel/lib/freespace_planner/astar_navi
+Symlinking /home/myr907/autoware.ai/devel/lib/pkgconfig/freespace_planner.pc
