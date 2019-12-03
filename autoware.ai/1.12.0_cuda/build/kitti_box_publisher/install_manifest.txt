@@ -1,0 +1,5 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/lib/pkgconfig/kitti_box_publisher.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/share/kitti_box_publisher/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/lib/kitti_box_publisher/kitti_box_publisher.py

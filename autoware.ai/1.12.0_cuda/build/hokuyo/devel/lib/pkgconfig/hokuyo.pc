@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/hokuyo/devel
+
+Name: hokuyo
+Description: Description of hokuyo
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/hokuyo/devel/lib 
+Requires: roscpp sensor_msgs

@@ -1,0 +1,7 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/lib/pkgconfig/autoware_launcher_rviz.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/share/autoware_launcher_rviz/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/lib/libautoware_launcher_rviz.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/share/autoware_launcher_rviz/plugin_description.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_launcher_rviz/share/autoware_launcher_rviz/icons/icons/classes/ModulePanel.png

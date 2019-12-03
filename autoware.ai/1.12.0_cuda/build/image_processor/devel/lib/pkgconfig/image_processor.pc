@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/image_processor/devel
+
+Name: image_processor
+Description: Description of image_processor
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/image_processor/devel/lib 
+Requires: sensor_msgs cv_bridge

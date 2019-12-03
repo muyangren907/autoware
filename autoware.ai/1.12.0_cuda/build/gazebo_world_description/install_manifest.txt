@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_world_description/lib/pkgconfig/gazebo_world_description.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_world_description/share/gazebo_world_description/package.xml

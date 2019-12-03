@@ -1,0 +1,9 @@
+** WARNING ** io features related to ensenso will be disabled
+** WARNING ** io features related to davidSDK will be disabled
+** WARNING ** io features related to dssdk will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** io features related to libusb-1.0 will be disabled
+[01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/map_file/nodes/points_map_loader/points_map_loader.cpp:61:6:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid {anonymous}::RequestQueue::clear()[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+ void [01;35m[KRequestQueue[m[K::clear()
+      [01;35m[K^~~~~~~~~~~~[m[K

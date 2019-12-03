@@ -1,0 +1,5 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_camera_description/lib/pkgconfig/gazebo_camera_description.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_camera_description/share/gazebo_camera_description/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gazebo_camera_description/share/gazebo_camera_description/urdf/monocular_camera.xacro

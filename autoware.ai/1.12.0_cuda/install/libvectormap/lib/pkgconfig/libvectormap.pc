@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/libvectormap
+
+Name: libvectormap
+Description: Description of libvectormap
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/libvectormap/include -I/usr/local/include/eigen3
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/libvectormap/lib -llibvectormap
+Requires: vector_map

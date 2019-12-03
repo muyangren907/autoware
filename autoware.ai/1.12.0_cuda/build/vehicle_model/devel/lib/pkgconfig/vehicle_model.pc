@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/vehicle_model/devel
+
+Name: vehicle_model
+Description: Description of vehicle_model
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/vehicle_model/devel/lib 
+Requires: 

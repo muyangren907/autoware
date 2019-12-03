@@ -1,0 +1,8 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/lib/pkgconfig/ff_waypoint_follower.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/lib/ff_waypoint_follower/ff_waypoint_follower
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/launch/ffwaypointfollower_robot.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/launch/ffwaypointfollower_car.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/ff_waypoint_follower/share/ff_waypoint_follower/params/config.yaml

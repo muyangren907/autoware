@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pc2_downsampler
+
+Name: pc2_downsampler
+Description: Description of pc2_downsampler
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pc2_downsampler/lib 
+Requires: 

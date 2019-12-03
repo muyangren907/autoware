@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file/devel
+
+Name: map_file
+Description: Description of map_file
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file/devel/lib 
+Requires: 

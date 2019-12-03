@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect
+
+Name: vision_ssd_detect
+Description: Description of vision_ssd_detect
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect/lib 
+Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs autoware_msgs autoware_config_msgs tf

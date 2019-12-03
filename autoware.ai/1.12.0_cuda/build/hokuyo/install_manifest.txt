@@ -1,0 +1,7 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/lib/pkgconfig/hokuyo.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/share/hokuyo/cmake/hokuyoConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/share/hokuyo/cmake/hokuyoConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/share/hokuyo/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/lib/hokuyo/hokuyo_3d
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/share/hokuyo/launch/top_urg.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/hokuyo/share/hokuyo/launch/hokuyo_3d.launch

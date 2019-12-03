@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/decision_maker
+
+Name: decision_maker
+Description: Description of decision_maker
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/decision_maker/lib 
+Requires: roscpp tf std_msgs autoware_config_msgs autoware_msgs geometry_msgs vector_map_msgs vector_map jsk_recognition_msgs amathutils_lib state_machine_lib jsk_rviz_plugins

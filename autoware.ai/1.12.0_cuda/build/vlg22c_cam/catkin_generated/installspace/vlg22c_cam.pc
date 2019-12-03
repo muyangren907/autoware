@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam
+
+Name: vlg22c_cam
+Description: Description of vlg22c_cam
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam/lib -lvlg22c_cam
+Requires: 

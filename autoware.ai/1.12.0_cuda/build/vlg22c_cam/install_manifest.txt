@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam/lib/pkgconfig/vlg22c_cam.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam/share/vlg22c_cam/cmake/vlg22c_camConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam/share/vlg22c_cam/cmake/vlg22c_camConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vlg22c_cam/share/vlg22c_cam/package.xml

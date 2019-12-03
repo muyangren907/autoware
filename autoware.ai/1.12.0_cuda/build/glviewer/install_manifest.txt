@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/lib/pkgconfig/glviewer.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/share/glviewer/cmake/glviewerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/share/glviewer/cmake/glviewerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/share/glviewer/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/include/glviewer/glviewer.h
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/glviewer/lib/libglviewer.so

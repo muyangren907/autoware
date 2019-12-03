@@ -1,0 +1,1 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_laser/share/sick_ldmrs_laser/package.xml

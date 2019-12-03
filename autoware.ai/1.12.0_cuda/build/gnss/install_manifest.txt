@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/lib/pkgconfig/gnss.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/share/gnss/cmake/gnssConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/share/gnss/cmake/gnssConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/share/gnss/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/include/gnss/geo_pos_conv.hpp
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss/lib/libgnss.so

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat
+
+Name: nmea_navsat
+Description: Description of nmea_navsat
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/lib 
+Requires: 

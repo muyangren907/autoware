@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/log_tools/devel
+
+Name: log_tools
+Description: Description of log_tools
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/log_tools/devel/lib 
+Requires: 

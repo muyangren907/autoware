@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver
+
+Name: javad_navsat_driver
+Description: Description of javad_navsat_driver
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/lib 
+Requires: 

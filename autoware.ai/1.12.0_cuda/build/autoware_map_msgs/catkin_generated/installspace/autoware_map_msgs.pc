@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_map_msgs
+
+Name: autoware_map_msgs
+Description: Description of autoware_map_msgs
+Version: 0.2.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_map_msgs/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_map_msgs/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,9 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/lib/pkgconfig/integrated_viewer.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/cmake/integrated_viewerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/cmake/integrated_viewerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/lib/libintegrated_viewer.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/rviz_plugin_description.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/node/image_viewer_plugin/autoware_logo.png
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/node/image_viewer_plugin/car.png
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/integrated_viewer/share/integrated_viewer/node/image_viewer_plugin/pedestrian.png

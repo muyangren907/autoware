@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/points_preprocessor/devel
+
+Name: points_preprocessor
+Description: Description of points_preprocessor
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/points_preprocessor/devel/lib 
+Requires: roscpp std_msgs sensor_msgs pcl_ros pcl_conversions cv_bridge velodyne_pointcloud autoware_config_msgs tf autoware_health_checker

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/data_preprocessor
+
+Name: data_preprocessor
+Description: Description of data_preprocessor
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/data_preprocessor/lib 
+Requires: 

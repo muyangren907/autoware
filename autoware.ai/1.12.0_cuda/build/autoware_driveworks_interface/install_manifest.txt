@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_driveworks_interface/lib/pkgconfig/autoware_driveworks_interface.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_driveworks_interface/share/autoware_driveworks_interface/cmake/autoware_driveworks_interfaceConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_driveworks_interface/share/autoware_driveworks_interface/cmake/autoware_driveworks_interfaceConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_driveworks_interface/share/autoware_driveworks_interface/package.xml

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/kvaser/devel
+
+Name: kvaser
+Description: Description of kvaser
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/kvaser/devel/lib 
+Requires: std_msgs visualization_msgs autoware_can_msgs

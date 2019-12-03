@@ -1,0 +1,44 @@
+CMake Warning (dev) at /usr/local/lib/python2.7/dist-packages/cmake/data/share/cmake-3.12/Modules/FindOpenGL.cmake:270 (message):
+  Policy CMP0072 is not set: FindOpenGL prefers GLVND by default when
+  available.  Run "cmake --help-policy CMP0072" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  FindOpenGL found both a legacy GL library:
+
+    OPENGL_gl_LIBRARY: /usr/lib/x86_64-linux-gnu/libGL.so
+
+  and GLVND libraries for OpenGL and GLX:
+
+    OPENGL_opengl_LIBRARY: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+    OPENGL_glx_LIBRARY: /usr/lib/x86_64-linux-gnu/libGLX.so
+
+  OpenGL_GL_PREFERENCE has not been set to "GLVND" or "LEGACY", so for
+  compatibility with CMake 3.10 and below the legacy GL library will be used.
+Call Stack (most recent call first):
+  CMakeLists.txt:27 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/segmentation/extract_polygonal_prism_data.h:42[m[K,
+                 from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/convex_polygon.h:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/cube.h:40[m[K,
+                 from [01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_perception/range_vision_fusion/include/range_vision_fusion/range_vision_fusion.h:41[m[K,
+                 from [01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_perception/range_vision_fusion/src/range_vision_fusion.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/segmentation/extract_polygonal_prism_data.h:42[m[K,
+                 from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/convex_polygon.h:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/cube.h:40[m[K,
+                 from [01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_perception/range_vision_fusion/include/range_vision_fusion/range_vision_fusion.h:41[m[K,
+                 from [01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_perception/range_vision_fusion/src/range_vision_fusion_node.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here

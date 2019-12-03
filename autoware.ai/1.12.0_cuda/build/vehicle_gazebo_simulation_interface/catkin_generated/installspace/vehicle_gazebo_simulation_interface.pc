@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vehicle_gazebo_simulation_interface
+
+Name: vehicle_gazebo_simulation_interface
+Description: Description of vehicle_gazebo_simulation_interface
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vehicle_gazebo_simulation_interface/lib 
+Requires: geometry_msgs roscpp sensor_msgs std_msgs gazebo_msgs autoware_msgs tf2_ros tf2

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_utilities/devel
+
+Name: op_utilities
+Description: Description of op_utilities
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_planning/op_utilities/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_utilities/devel/lib 
+Requires: roscpp geometry_msgs map_file op_utility op_planner op_ros_helpers pcl_conversions vector_map_msgs

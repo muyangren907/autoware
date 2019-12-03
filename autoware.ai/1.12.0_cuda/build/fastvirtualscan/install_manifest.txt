@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/lib/pkgconfig/fastvirtualscan.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/share/fastvirtualscan/cmake/fastvirtualscanConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/share/fastvirtualscan/cmake/fastvirtualscanConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/share/fastvirtualscan/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/include/fastvirtualscan/fastvirtualscan.h
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/fastvirtualscan/lib/libfastvirtualscan.so

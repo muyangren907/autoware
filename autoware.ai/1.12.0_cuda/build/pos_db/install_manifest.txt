@@ -1,0 +1,9 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/lib/pkgconfig/pos_db.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/share/pos_db/cmake/pos_dbConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/share/pos_db/cmake/pos_dbConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/share/pos_db/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/lib/pos_db/pos_downloader
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/lib/libpos_db.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/lib/pos_db/pos_uploader
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/include/pos_db/include/pos_db.h
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/pos_db/share/pos_db/model/prius_model.dae

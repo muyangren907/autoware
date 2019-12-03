@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_rviz_plugins
+
+Name: autoware_rviz_plugins
+Description: Description of autoware_rviz_plugins
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_rviz_plugins/lib 
+Requires: rviz

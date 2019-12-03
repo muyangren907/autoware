@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_global_planner/devel
+
+Name: op_global_planner
+Description: Description of op_global_planner
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/core_planning/op_global_planner/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_global_planner/devel/lib -lop_global_planner
+Requires: geometry_msgs vector_map_msgs roscpp rospy std_msgs waypoint_follower op_utility op_planner op_simu op_ros_helpers autoware_can_msgs

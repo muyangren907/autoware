@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/object_map/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lane_planner
+
+Name: lane_planner
+Description: Description of lane_planner
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lane_planner/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lane_planner/lib -llane_planner
+Requires: roscpp std_msgs waypoint_follower vector_map gnss autoware_msgs

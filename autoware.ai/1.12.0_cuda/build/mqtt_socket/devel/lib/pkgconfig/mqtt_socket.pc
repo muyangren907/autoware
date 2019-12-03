@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/mqtt_socket/devel
+
+Name: mqtt_socket
+Description: Description of mqtt_socket
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/mqtt_socket/devel/lib 
+Requires: roscpp roslib std_msgs autoware_msgs autoware_can_msgs tablet_socket_msgs

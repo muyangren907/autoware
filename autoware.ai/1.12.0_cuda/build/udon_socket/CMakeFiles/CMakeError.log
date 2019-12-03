@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ee451/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ee451.dir/build.make CMakeFiles/cmTC_ee451.dir/build
+make[1]: Entering directory '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ee451.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_ee451.dir/CheckSymbolExists.c.o   -c /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_ee451
+/usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee451.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_ee451.dir/CheckSymbolExists.c.o  -o cmTC_ee451 
+CMakeFiles/cmTC_ee451.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_ee451.dir/build.make:86: recipe for target 'cmTC_ee451' failed
+make[1]: *** [cmTC_ee451] Error 1
+make[1]: Leaving directory '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_ee451/fast' failed
+make: *** [cmTC_ee451/fast] Error 2
+
+File /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_93bde/fast"
+/usr/bin/make -f CMakeFiles/cmTC_93bde.dir/build.make CMakeFiles/cmTC_93bde.dir/build
+make[1]: Entering directory '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_93bde.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_93bde.dir/CheckFunctionExists.c.o   -c /usr/local/lib/python2.7/dist-packages/cmake/data/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_93bde
+/usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_93bde.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_93bde.dir/CheckFunctionExists.c.o  -o cmTC_93bde -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_93bde.dir/build.make:86: recipe for target 'cmTC_93bde' failed
+make[1]: *** [cmTC_93bde] Error 1
+make[1]: Leaving directory '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/udon_socket/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_93bde/fast' failed
+make: *** [cmTC_93bde/fast] Error 2
+
+

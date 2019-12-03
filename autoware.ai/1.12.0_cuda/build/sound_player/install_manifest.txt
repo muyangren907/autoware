@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/lib/pkgconfig/sound_player.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/share/sound_player/cmake/sound_playerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/share/sound_player/cmake/sound_playerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/share/sound_player/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/lib/sound_player/sound_player.py
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sound_player/lib/sound_player/sound_player.yaml

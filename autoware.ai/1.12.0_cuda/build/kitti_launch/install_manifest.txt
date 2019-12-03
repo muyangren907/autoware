@@ -1,0 +1,11 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/lib/pkgconfig/kitti_launch.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/launch/launch/kittiplayer.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/launch/launch/xml/camera_lidar.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/launch/launch/xml/points_raw.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/launch/xml/xml/camera_lidar.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/launch/xml/xml/points_raw.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/calib/calib/kitti_cam02_sync_kitti_conv.yml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_launch/share/kitti_launch/calib/calib/kitti_cam02_sync.yml

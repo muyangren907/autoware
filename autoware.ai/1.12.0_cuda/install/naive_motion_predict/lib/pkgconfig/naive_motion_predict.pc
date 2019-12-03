@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/naive_motion_predict
+
+Name: naive_motion_predict
+Description: Description of naive_motion_predict
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/naive_motion_predict/lib 
+Requires: roscpp sensor_msgs autoware_msgs tf imm_ukf_pda_track

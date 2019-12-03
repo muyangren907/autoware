@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/waypoint_follower/devel
+
+Name: waypoint_follower
+Description: Description of waypoint_follower
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/waypoint_follower/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/waypoint_follower/devel/lib -llibwaypoint_follower
+Requires: roscpp std_msgs tf tf2 geometry_msgs autoware_msgs autoware_config_msgs amathutils_lib pcl_ros pcl_conversions sensor_msgs tablet_socket_msgs autoware_health_checker gazebo_msgs

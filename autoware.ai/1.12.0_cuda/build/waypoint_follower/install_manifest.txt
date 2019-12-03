@@ -1,0 +1,16 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/pkgconfig/waypoint_follower.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/cmake/waypoint_followerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/cmake/waypoint_followerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/liblibwaypoint_follower.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/pure_pursuit
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/wf_simulator
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/twist_filter
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/twist_gate
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/mpc_follower
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/lib/waypoint_follower/mpc_waypoints_converter
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/include/waypoint_follower/libwaypoint_follower.h
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/launch/wf_simulator.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/launch/mpc_follower.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/launch/pure_pursuit.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/waypoint_follower/share/waypoint_follower/launch/twist_filter.launch

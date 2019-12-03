@@ -1,0 +1,265 @@
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/drivers/awf_drivers/as -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as/devel
+-- Using CMAKE_PREFIX_PATH: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags;/opt/ros/melodic
+-- This workspace overlays: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.15") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/local/bin/nosetests-2.7
+-- catkin 0.7.19
+-- BUILD_SHARED_LIBS is on
+-- CUDA compilation status: 1.
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/drivers/awf_drivers/as -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as -- -j40 -l40
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target automotive_navigation_msgs_generate_messages_eus[0m
+[  0%] Built target automotive_navigation_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target pacmod_msgs_generate_messages_lisp[0m
+[  0%] Built target pacmod_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pacmod_msgs_generate_messages_nodejs[0m
+[  0%] Built target pacmod_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pacmod_msgs_generate_messages_py[0m
+[  0%] Built target pacmod_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_eus[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_cpp[0m
+[  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target pacmod_msgs_generate_messages_cpp[0m
+[  0%] Built target pacmod_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_py[0m
+[  0%] Built target autoware_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target automotive_navigation_msgs_generate_messages_py[0m
+[  0%] Built target automotive_navigation_msgs_generate_messages_py
+[35m[1mScanning dependencies of target automotive_navigation_msgs_generate_messages_nodejs[0m
+[  0%] Built target automotive_navigation_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target pacmod_msgs_generate_messages_eus[0m
+[  0%] Built target pacmod_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target automotive_platform_msgs_generate_messages_nodejs[0m
+[  0%] Built target automotive_platform_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_py[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_lisp[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_lisp[0m
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[  0%] Built target pcl_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_cpp[0m
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target automotive_navigation_msgs_generate_messages_lisp[0m
+[  0%] Built target automotive_navigation_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target automotive_platform_msgs_generate_messages_py[0m
+[  0%] Built target automotive_platform_msgs_generate_messages_py
+[35m[1mScanning dependencies of target automotive_platform_msgs_generate_messages_lisp[0m
+[  0%] Built target automotive_platform_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target automotive_platform_msgs_generate_messages_eus[0m
+[  0%] Built target automotive_platform_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target automotive_navigation_msgs_generate_messages_cpp[0m
+[  0%] Built target automotive_navigation_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_cpp[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_py[0m
+[  0%] Built target jsk_footstep_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[  0%] Built target pcl_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_lisp[0m
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_nodejs[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target automotive_platform_msgs_generate_messages_cpp[0m
+[  0%] Built target automotive_platform_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_eus[0m
+[  0%] Built target autoware_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_nodejs[0m
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_eus[0m
+[  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_nodejs[0m
+[  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ssc_interface[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/ssc_interface.dir/nodes/ssc_interface/ssc_interface_node.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/ssc_interface.dir/nodes/ssc_interface/ssc_interface.cpp.o[0m
+[100%] [32m[1mLinking CXX executable devel/lib/as/ssc_interface[0m
+[100%] Built target ssc_interface
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as -- -j40 -l40
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as --target tests -- -j40 -l40
+[35m[1mScanning dependencies of target tests[0m
+Built target tests
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as --target tests -- -j40 -l40
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as --target install -- -j40 -l40
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target automotive_navigation_msgs_generate_messages_eus
+[  0%] Built target pacmod_msgs_generate_messages_lisp
+[  0%] Built target pacmod_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target pacmod_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target pacmod_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target autoware_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target automotive_navigation_msgs_generate_messages_py
+[  0%] Built target automotive_navigation_msgs_generate_messages_nodejs
+[  0%] Built target pacmod_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target automotive_platform_msgs_generate_messages_nodejs
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[  0%] Built target automotive_navigation_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target automotive_platform_msgs_generate_messages_py
+[  0%] Built target automotive_platform_msgs_generate_messages_lisp
+[  0%] Built target automotive_platform_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target automotive_navigation_msgs_generate_messages_cpp
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target jsk_footstep_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  0%] Built target automotive_platform_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[100%] Built target ssc_interface
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/lib/pkgconfig/as.pc
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/share/as/cmake/asConfig.cmake
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/share/as/cmake/asConfig-version.cmake
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/share/as/package.xml
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/lib/as/ssc_interface
+-- Set runtime path of "/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/lib/as/ssc_interface" to ""
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/share/as/launch
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/share/as/launch/ssc_interface.launch
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/as --target install -- -j40 -l40

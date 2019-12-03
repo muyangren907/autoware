@@ -1,0 +1,463 @@
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/map_file -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- CUDA compilation status: 1.
+-- Using CATKIN_DEVEL_PREFIX: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file/devel
+-- Using CMAKE_PREFIX_PATH: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags;/opt/ros/melodic
+-- This workspace overlays: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.15") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/local/bin/nosetests-2.7
+-- catkin 0.7.19
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Checking for module 'eigen3'
+--   Found eigen3, version 3.3.7
+-- Found eigen: /usr/local/include/eigen3  
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+--   chrono
+--   atomic
+--   regex
+-- Checking for module 'libopenni'
+--   Found libopenni, version 1.5.4.0
+-- Found openni: /usr/lib/libOpenNI.so  
+-- Checking for module 'libopenni2'
+--   Found libopenni2, version 2.2.0.3
+-- Found OpenNI2: /usr/lib/libOpenNI2.so  
+-- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+** WARNING ** io features related to ensenso will be disabled
+-- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+** WARNING ** io features related to davidSDK will be disabled
+-- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+** WARNING ** io features related to dssdk will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+-- The imported target "vtkRenderingPythonTkWidgets" references the file
+   "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+but not all the files it references.
+
+-- The imported target "vtk" references the file
+   "/usr/bin/vtk"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+but not all the files it references.
+
+-- Found libusb-1.0: /usr/include  
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- looking for PCL_COMMON
+-- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+-- looking for PCL_OCTREE
+-- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+-- looking for PCL_IO
+-- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+-- Found PCL: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_common.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_common.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava;optimized;/usr/lib/x86_64-linux-gnu/libpcl_io.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_io.so;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava  
+-- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.58.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/map_file -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file -- -j40 -l40
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target autoware_msgs_generate_messages_eus
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target bond_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target pcl_ros_gencfg
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[  0%] Built target nodelet_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  0%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target vector_map_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target vector_map_msgs_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target vector_map_msgs_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target vector_map_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target vector_map_msgs_generate_messages_nodejs[0m
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[  0%] Built target vector_map_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target get_file[0m
+[  0%] Built target nodelet_generate_messages_nodejs
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_nodejs[0m
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_py[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_eus[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/get_file.dir/lib/map_file/get_file.cpp.o[0m
+[ 11%] Built target pcl_msgs_generate_messages_eus
+[ 11%] Built target jsk_footstep_msgs_generate_messages_cpp
+[ 11%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[ 11%] Built target jsk_footstep_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target vector_map_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_nodejs[0m
+[ 11%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 11%] Built target visualization_msgs_generate_messages_nodejs
+[ 11%] Built target vector_map_msgs_generate_messages_cpp
+[ 11%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 11%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 11%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 11%] Built target actionlib_generate_messages_nodejs
+[ 11%] Built target actionlib_msgs_generate_messages_cpp
+[ 11%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_py[0m
+[ 11%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target vector_map_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target autoware_msgs_generate_messages_py[0m
+[ 11%] Built target jsk_footstep_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 11%] Built target actionlib_msgs_generate_messages_eus
+[ 11%] Built target vector_map_msgs_generate_messages_lisp
+[ 11%] Built target autoware_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 11%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[ 11%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[ 11%] Built target topic_tools_generate_messages_nodejs
+[ 11%] Built target nodelet_topic_tools_gencfg
+[ 11%] Built target std_srvs_generate_messages_eus
+[ 11%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[ 11%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target points_map_filter[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/points_map_filter.dir/nodes/points_map_filter/points_map_filter.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/points_map_filter.dir/nodes/points_map_filter/points_map_filter_node.cpp.o[0m
+[ 44%] [32m[1mLinking CXX shared library devel/lib/libget_file.so[0m
+[ 44%] Built target get_file
+[35m[1mScanning dependencies of target vector_map_loader[0m
+[35m[1mScanning dependencies of target points_map_loader[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/vector_map_loader.dir/nodes/vector_map_loader/vector_map_loader.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/points_map_loader.dir/nodes/points_map_loader/points_map_loader.cpp.o[0m
+[01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/map_file/nodes/points_map_loader/points_map_loader.cpp:61:6:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid {anonymous}::RequestQueue::clear()[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+ void [01;35m[KRequestQueue[m[K::clear()
+      [01;35m[K^~~~~~~~~~~~[m[K
+[ 77%] [32m[1mLinking CXX executable devel/lib/map_file/points_map_filter[0m
+[ 88%] [32m[1mLinking CXX executable devel/lib/map_file/points_map_loader[0m
+[ 88%] Built target points_map_loader
+[100%] [32m[1mLinking CXX executable devel/lib/map_file/vector_map_loader[0m
+[100%] Built target vector_map_loader
+[100%] Built target points_map_filter
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file -- -j40 -l40
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file --target tests -- -j40 -l40
+[35m[1mScanning dependencies of target tests[0m
+Built target tests
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file --target tests -- -j40 -l40
+Invoking command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file --target install -- -j40 -l40
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_eus
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target vector_map_msgs_generate_messages_eus
+[  0%] Built target vector_map_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target vector_map_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[ 22%] Built target get_file
+[ 22%] Built target pcl_msgs_generate_messages_nodejs
+[ 22%] Built target visualization_msgs_generate_messages_nodejs
+[ 22%] Built target vector_map_msgs_generate_messages_cpp
+[ 22%] Built target jsk_footstep_msgs_generate_messages_eus
+[ 22%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[ 22%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 22%] Built target tf2_msgs_generate_messages_py
+[ 22%] Built target actionlib_generate_messages_nodejs
+[ 22%] Built target actionlib_msgs_generate_messages_nodejs
+[ 22%] Built target sensor_msgs_generate_messages_eus
+[ 22%] Built target actionlib_msgs_generate_messages_cpp
+[ 22%] Built target actionlib_generate_messages_lisp
+[ 22%] Built target jsk_footstep_msgs_generate_messages_py
+[ 22%] Built target actionlib_msgs_generate_messages_eus
+[ 22%] Built target actionlib_msgs_generate_messages_lisp
+[ 22%] Built target vector_map_msgs_generate_messages_lisp
+[ 22%] Built target autoware_msgs_generate_messages_py
+[ 22%] Built target sensor_msgs_generate_messages_lisp
+[ 44%] Built target vector_map_loader
+[ 44%] Built target topic_tools_generate_messages_nodejs
+[ 44%] Built target nodelet_topic_tools_gencfg
+[ 77%] Built target points_map_filter
+[100%] Built target points_map_loader
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/pkgconfig/map_file.pc
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/cmake/map_fileConfig.cmake
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/cmake/map_fileConfig-version.cmake
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/package.xml
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/libget_file.so
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/points_map_loader
+-- Set runtime path of "/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/points_map_loader" to ""
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/vector_map_loader
+-- Set runtime path of "/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/vector_map_loader" to ""
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/points_map_filter
+-- Set runtime path of "/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/lib/map_file/points_map_filter" to ""
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/include/map_file
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/include/map_file/points_map_filter.h
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/include/map_file/get_file.h
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/launch
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/launch/map_filter.launch
+-- Installing: /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_file/share/map_file/launch/map_downloader.launch
+Invoked command in '/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/lib/python2.7/dist-packages:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_msgs/share:/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/local/bin/cmake --build /home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_file --target install -- -j40 -l40

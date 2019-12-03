@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/marker_downsampler
+
+Name: marker_downsampler
+Description: Description of marker_downsampler
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/marker_downsampler/lib 
+Requires: 

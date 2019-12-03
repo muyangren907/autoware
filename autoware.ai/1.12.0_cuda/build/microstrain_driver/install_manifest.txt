@@ -1,0 +1,9 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/lib/pkgconfig/microstrain_driver.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/share/microstrain_driver/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/lib/libmicrostrain_driver.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/share/microstrain_driver/launch/microstrain.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/microstrain_driver/share/microstrain_driver/launch/3dm_gx5_15.launch

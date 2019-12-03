@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_utility/devel
+
+Name: op_utility
+Description: Description of op_utility
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/op_utility/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_utility/devel/lib -lop_utility
+Requires: vector_map_msgs vector_map_server

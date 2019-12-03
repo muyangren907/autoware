@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/adi_driver
+
+Name: adi_driver
+Description: Description of adi_driver
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/adi_driver/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/adi_driver/lib 
+Requires: roscpp sensor_msgs

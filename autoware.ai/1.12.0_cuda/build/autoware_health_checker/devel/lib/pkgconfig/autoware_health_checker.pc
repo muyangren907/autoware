@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_health_checker/devel
+
+Name: autoware_health_checker
+Description: Description of autoware_health_checker
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/autoware_health_checker/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_health_checker/devel/lib -lnode_status_publisher
+Requires: autoware_system_msgs roscpp rosgraph_msgs

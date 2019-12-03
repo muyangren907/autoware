@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/lib/pkgconfig/nmea_navsat.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/share/nmea_navsat/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/share/nmea_navsat/launch/nmea_navsat.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/nmea_navsat/share/nmea_navsat/launch/README.md

@@ -1,0 +1,10 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/lib/pkgconfig/sick_ldmrs_description.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/upload_urdf.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/show_urdf.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs_color.png
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs.dae
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs.urdf.xacro
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs_macros.urdf.xacro

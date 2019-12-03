@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_tools/devel
+
+Name: map_tools
+Description: Description of map_tools
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/map_tools/devel/lib 
+Requires: roscpp tf sensor_msgs pcl_ros pcl_conversions

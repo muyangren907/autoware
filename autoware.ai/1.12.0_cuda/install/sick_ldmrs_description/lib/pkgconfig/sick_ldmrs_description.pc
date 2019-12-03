@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description
+
+Name: sick_ldmrs_description
+Description: Description of sick_ldmrs_description
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_ldmrs_description/lib 
+Requires: 

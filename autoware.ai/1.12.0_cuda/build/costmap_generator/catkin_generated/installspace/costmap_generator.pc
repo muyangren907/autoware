@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/costmap_generator
+
+Name: costmap_generator
+Description: Description of costmap_generator
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/costmap_generator/lib 
+Requires: roscpp pcl_ros grid_map_ros tf autoware_msgs vector_map object_map

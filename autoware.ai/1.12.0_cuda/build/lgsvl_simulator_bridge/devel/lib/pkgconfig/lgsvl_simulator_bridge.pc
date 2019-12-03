@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/lgsvl_simulator_bridge/devel
+
+Name: lgsvl_simulator_bridge
+Description: Description of lgsvl_simulator_bridge
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/lgsvl_simulator_bridge/devel/lib 
+Requires: autoware_msgs geometry_msgs roscpp rospy sensor_msgs rqt_gui rqt_gui_py

@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect/lib/pkgconfig/vision_ssd_detect.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect/share/vision_ssd_detect/cmake/vision_ssd_detectConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect/share/vision_ssd_detect/cmake/vision_ssd_detectConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_ssd_detect/share/vision_ssd_detect/package.xml

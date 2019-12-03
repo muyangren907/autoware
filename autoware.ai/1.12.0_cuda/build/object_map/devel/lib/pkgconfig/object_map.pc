@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/object_map/devel
+
+Name: object_map
+Description: Description of object_map
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/object_map/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/object_map/devel/lib -lobject_map_utils_lib
+Requires: roscpp pcl_ros pcl_conversions tf sensor_msgs nav_msgs autoware_msgs vector_map

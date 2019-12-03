@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/sick_lms5xx/devel
+
+Name: sick_lms5xx
+Description: Description of sick_lms5xx
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/sick_lms5xx/devel/lib 
+Requires: roscpp tf

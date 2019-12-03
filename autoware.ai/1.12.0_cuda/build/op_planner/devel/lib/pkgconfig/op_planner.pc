@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_planner/devel
+
+Name: op_planner
+Description: Description of op_planner
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/common/op_planner/include -I/usr/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/op_planner/devel/lib -lop_planner /usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: op_utility

@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/lib/pkgconfig/rosinterface.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/share/rosinterface/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/include/rosinterface/rosinterface.h
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/rosinterface/lib/librosinterface.so

@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_segment_enet_detect/lib/pkgconfig/vision_segment_enet_detect.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_segment_enet_detect/share/vision_segment_enet_detect/cmake/vision_segment_enet_detectConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_segment_enet_detect/share/vision_segment_enet_detect/cmake/vision_segment_enet_detectConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_segment_enet_detect/share/vision_segment_enet_detect/package.xml

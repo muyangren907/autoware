@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/utilities/udon_socket/include/udon_socket/udon.hpp
+cstdint
+-
+sys/types.h
+-
+
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/utilities/udon_socket/lib/udon_socket/udon.cpp
+cstddef
+-
+cstring
+-
+sys/socket.h
+-
+udon_socket/udon.hpp
+-
+

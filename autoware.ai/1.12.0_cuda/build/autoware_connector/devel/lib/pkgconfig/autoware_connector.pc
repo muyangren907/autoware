@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_connector/devel
+
+Name: autoware_connector
+Description: Description of autoware_connector
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_connector/devel/lib 
+Requires: 

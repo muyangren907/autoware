@@ -1,0 +1,10 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/lib/pkgconfig/javad_navsat_driver.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/lib/javad_navsat_driver/javad_serial_driver
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_driver
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_serial_reader
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/launch/javad_navsat.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/cfg/disable.cfg
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/javad_navsat_driver/share/javad_navsat_driver/cfg/enable.cfg

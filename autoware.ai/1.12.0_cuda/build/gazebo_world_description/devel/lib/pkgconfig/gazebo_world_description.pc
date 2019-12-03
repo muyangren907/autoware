@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/gazebo_world_description/devel
+
+Name: gazebo_world_description
+Description: Description of gazebo_world_description
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/gazebo_world_description/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher
+
+Name: kitti_box_publisher
+Description: Description of kitti_box_publisher
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/kitti_box_publisher/lib 
+Requires: geometry_msgs jsk_recognition_msgs rospy sensor_msgs std_msgs autoware_msgs

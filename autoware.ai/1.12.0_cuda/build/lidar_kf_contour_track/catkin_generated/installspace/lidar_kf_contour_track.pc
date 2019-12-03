@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_kf_contour_track
+
+Name: lidar_kf_contour_track
+Description: Description of lidar_kf_contour_track
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_kf_contour_track/lib 
+Requires: roscpp autoware_msgs tf jsk_recognition_msgs op_ros_helpers cv_bridge

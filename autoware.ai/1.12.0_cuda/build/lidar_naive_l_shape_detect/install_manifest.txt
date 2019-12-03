@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/lib/pkgconfig/lidar_naive_l_shape_detect.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/cmake/lidar_naive_l_shape_detectConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/lib/lidar_naive_l_shape_detect/lidar_naive_l_shape_detect
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_naive_l_shape_detect/share/lidar_naive_l_shape_detect/launch/lidar_naive_l_shape_detect.launch

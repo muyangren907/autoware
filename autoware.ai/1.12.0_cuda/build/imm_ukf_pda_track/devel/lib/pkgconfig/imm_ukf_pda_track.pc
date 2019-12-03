@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/imm_ukf_pda_track/devel
+
+Name: imm_ukf_pda_track
+Description: Description of imm_ukf_pda_track
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/imm_ukf_pda_track/devel/lib 
+Requires: roscpp pcl_ros autoware_msgs tf vector_map

@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/lib/pkgconfig/op_global_planner.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/share/op_global_planner/cmake/op_global_plannerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/share/op_global_planner/cmake/op_global_plannerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/share/op_global_planner/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/lib/op_global_planner/op_global_planner
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_global_planner/share/op_global_planner/launch/op_global_planner.launch

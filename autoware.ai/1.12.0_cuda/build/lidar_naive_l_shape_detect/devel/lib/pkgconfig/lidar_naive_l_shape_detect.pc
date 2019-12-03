@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/lidar_naive_l_shape_detect/devel
+
+Name: lidar_naive_l_shape_detect
+Description: Description of lidar_naive_l_shape_detect
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/lidar_naive_l_shape_detect/devel/lib 
+Requires: roscpp pcl_ros autoware_msgs tf

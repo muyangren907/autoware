@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_lane_detect
+
+Name: vision_lane_detect
+Description: Description of vision_lane_detect
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vision_lane_detect/lib 
+Requires: roscpp

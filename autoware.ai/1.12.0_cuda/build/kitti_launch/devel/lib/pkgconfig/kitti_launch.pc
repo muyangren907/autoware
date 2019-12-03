@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/kitti_launch/devel
+
+Name: kitti_launch
+Description: Description of kitti_launch
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/kitti_launch/devel/lib 
+Requires: kitti_box_publisher

@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/lib/pkgconfig/lidar_fake_perception.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/share/lidar_fake_perception/cmake/lidar_fake_perceptionConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/share/lidar_fake_perception/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/lib/lidar_fake_perception/lidar_fake_perception_node
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_fake_perception/share/lidar_fake_perception/launch/lidar_fake_perception.launch

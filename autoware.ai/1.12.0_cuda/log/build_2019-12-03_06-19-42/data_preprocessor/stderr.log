@@ -1,0 +1,7 @@
+[01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:[m[K In member function ‘[01m[Kvoid SaveDepth::create_depth()[m[K’:
+[01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:169:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kw[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+   for (int [01;35m[Kw[m[K; w<width; w++){
+            [01;35m[K^[m[K
+[01m[K/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/utilities/data_preprocessor/nodes/get_Depth/get_Depth.cpp:170:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kh[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+     for (int [01;35m[Kh[m[K; h<height; h++){
+              [01;35m[K^[m[K

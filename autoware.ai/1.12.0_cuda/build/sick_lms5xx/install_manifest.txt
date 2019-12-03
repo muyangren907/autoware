@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_lms5xx/lib/pkgconfig/sick_lms5xx.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_lms5xx/share/sick_lms5xx/cmake/sick_lms5xxConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_lms5xx/share/sick_lms5xx/cmake/sick_lms5xxConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/sick_lms5xx/share/sick_lms5xx/package.xml

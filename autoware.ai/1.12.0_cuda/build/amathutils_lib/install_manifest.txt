@@ -1,0 +1,8 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/lib/pkgconfig/amathutils_lib.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/share/amathutils_lib/cmake/amathutils_libConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/share/amathutils_lib/cmake/amathutils_libConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/share/amathutils_lib/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/include/amathutils_lib/amathutils.hpp
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/include/amathutils_lib/kalman_filter.hpp
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/include/amathutils_lib/time_delay_kalman_filter.hpp
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/amathutils_lib/lib/libamathutils_lib.so

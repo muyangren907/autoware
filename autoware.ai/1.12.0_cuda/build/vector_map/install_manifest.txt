@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/pkgconfig/vector_map.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share/vector_map/cmake/vector_mapConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share/vector_map/cmake/vector_mapConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/share/vector_map/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/lib/libvector_map.so
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vector_map/include/vector_map/vector_map.h

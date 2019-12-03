@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_apollo_cnn_seg_detect/lib/pkgconfig/lidar_apollo_cnn_seg_detect.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/cmake/lidar_apollo_cnn_seg_detectConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/cmake/lidar_apollo_cnn_seg_detectConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/package.xml

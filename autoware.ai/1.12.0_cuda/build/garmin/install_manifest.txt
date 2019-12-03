@@ -1,0 +1,5 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/garmin/lib/pkgconfig/garmin.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/garmin/share/garmin/cmake/garminConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/garmin/share/garmin/cmake/garminConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/garmin/share/garmin/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/garmin/lib/garmin/garmin_gps_18x_lvc

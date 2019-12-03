@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer
+
+Name: gnss_localizer
+Description: Description of gnss_localizer
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/lib 
+Requires: 

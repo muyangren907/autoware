@@ -1,0 +1,2 @@
+set(autoware_can_msgs_MESSAGE_FILES "/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/messages/autoware_can_msgs/msg/CANInfo.msg;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/messages/autoware_can_msgs/msg/CANData.msg;/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/src/autoware/messages/autoware_can_msgs/msg/CANPacket.msg")
+set(autoware_can_msgs_SERVICE_FILES "")

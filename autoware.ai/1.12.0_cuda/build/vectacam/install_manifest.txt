@@ -1,0 +1,7 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/lib/pkgconfig/vectacam.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/share/vectacam/cmake/vectacamConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/share/vectacam/cmake/vectacamConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/share/vectacam/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/lib/vectacam/vectacam_node
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/share/vectacam/launch/vectacam.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/vectacam/share/vectacam/launch/initialization_params.txt

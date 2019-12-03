@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_point_pillars/lib/pkgconfig/lidar_point_pillars.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/lidar_point_pillars/share/lidar_point_pillars/package.xml

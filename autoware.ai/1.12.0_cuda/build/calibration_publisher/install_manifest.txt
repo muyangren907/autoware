@@ -1,0 +1,5 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/calibration_publisher/lib/pkgconfig/calibration_publisher.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/calibration_publisher/share/calibration_publisher/cmake/calibration_publisherConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/calibration_publisher/share/calibration_publisher/cmake/calibration_publisherConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/calibration_publisher/share/calibration_publisher/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/calibration_publisher/lib/calibration_publisher/calibration_publisher

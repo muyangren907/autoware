@@ -1,0 +1,8 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/lib/pkgconfig/gnss_localizer.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/share/gnss_localizer/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/lib/gnss_localizer/nmea2tfpose
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/lib/gnss_localizer/fix2tfpose
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/share/gnss_localizer/launch/fix2tfpose.launch
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/gnss_localizer/share/gnss_localizer/launch/nmea2tfpose.launch

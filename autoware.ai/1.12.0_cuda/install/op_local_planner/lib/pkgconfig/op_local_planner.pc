@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_local_planner
+
+Name: op_local_planner
+Description: Description of op_local_planner
+Version: 1.11.0
+Cflags: -I/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_local_planner/include
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/op_local_planner/lib 
+Requires: roscpp geometry_msgs autoware_can_msgs map_file op_utility op_planner op_simu op_ros_helpers waypoint_follower

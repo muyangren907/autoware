@@ -1,0 +1,6 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/lib/pkgconfig/way_planner.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/share/way_planner/cmake/way_plannerConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/share/way_planner/cmake/way_plannerConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/share/way_planner/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/lib/way_planner/way_planner
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/way_planner/share/way_planner/launch/way_planner.launch

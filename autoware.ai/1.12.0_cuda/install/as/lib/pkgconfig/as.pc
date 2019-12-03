@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as
+
+Name: as
+Description: Description of as
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/as/lib 
+Requires: roscpp message_filters std_msgs geometry_msgs automotive_platform_msgs automotive_navigation_msgs pacmod_msgs autoware_msgs

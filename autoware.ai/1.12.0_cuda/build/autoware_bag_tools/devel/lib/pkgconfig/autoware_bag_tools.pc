@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_bag_tools/devel
+
+Name: autoware_bag_tools
+Description: Description of autoware_bag_tools
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/autoware_bag_tools/devel/lib 
+Requires: rosbag nmea_msgs roslib

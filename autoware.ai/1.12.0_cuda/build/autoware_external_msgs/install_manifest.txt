@@ -1,0 +1,4 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_external_msgs/lib/pkgconfig/autoware_external_msgs.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_external_msgs/share/autoware_external_msgs/cmake/autoware_external_msgsConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_external_msgs/share/autoware_external_msgs/cmake/autoware_external_msgsConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_external_msgs/share/autoware_external_msgs/package.xml

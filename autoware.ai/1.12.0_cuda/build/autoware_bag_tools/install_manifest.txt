@@ -1,0 +1,7 @@
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/lib/pkgconfig/autoware_bag_tools.pc
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig-version.cmake
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/share/autoware_bag_tools/package.xml
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/lib/autoware_bag_tools/change_frame_id.py
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/lib/autoware_bag_tools/replace_msg_time_with_hdr.py
+/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/autoware_bag_tools/lib/autoware_bag_tools/nmea2kml

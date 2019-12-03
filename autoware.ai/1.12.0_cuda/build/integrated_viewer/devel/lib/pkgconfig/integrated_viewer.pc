@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/integrated_viewer/devel
+
+Name: integrated_viewer
+Description: Description of integrated_viewer
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/integrated_viewer/devel/lib 
+Requires: rviz

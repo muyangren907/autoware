@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_tf_generator
+
+Name: map_tf_generator
+Description: Description of map_tf_generator
+Version: 1.11.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/install/map_tf_generator/lib 
+Requires: 

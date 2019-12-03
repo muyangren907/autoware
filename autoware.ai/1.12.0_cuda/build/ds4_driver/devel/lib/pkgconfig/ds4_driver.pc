@@ -1,0 +1,8 @@
+prefix=/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/ds4_driver/devel
+
+Name: ds4_driver
+Description: Description of ds4_driver
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/muyangren907/autoware/autoware.ai/1.12.0_cuda/build/ds4_driver/devel/lib 
+Requires: sensor_msgs
